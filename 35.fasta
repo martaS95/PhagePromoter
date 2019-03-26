@@ -1,0 +1,1004 @@
+>A0(D) promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, complement(253..259)
+TTGACT
+>C promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, (3077..3083)
+TTGACG
+>A1 promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, (461..467)
+TTGACT
+>A2 promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, (588..594)
+TTGACA
+>A3 promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, (713..719)
+TTGACA
+>E promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, (36901..36907)
+TTAACG
+>B promoter(-35 region), Enterobacteria phage T7, RefSeq:NC_001604, (1477..1483)
+TTTACT
+>p3Cre promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (103..109)
+TTGATC
+>p3Res promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(6946..6952)
+TTGAAA
+>p2Cre promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (282..288)
+TTGATC
+>p1Cre promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (399..405)
+TGTACA
+>p2Res promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(6913..6919)
+TTAAAA
+>p1Mod promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(9671..9677)
+GTGATA
+>p2Mod promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(9769..9775)
+ATGCAT
+>p1Lxc promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(10074..10080)
+CTGAAG
+>p2Lxc promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(10243..10249)
+TTATTA
+>p3Lxc promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(10386..10392)
+TTGAGG
+>p2Ssb promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (20985..20991)
+TTGTTA
+>p2C4 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (48154..48160)
+TTGTAT
+>p1C4 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (48194..48200)
+TTGACC
+>pKilA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (49791..49797)
+TGGATC
+>PAskilA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(49945..49951)
+TCGACA
+>p2RlfB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (51902..51908)
+CTGATT
+>p1PmgF promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(53461..53467)
+TTGAGT
+>pParB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(60063..60069)
+AAGATT
+>pPar promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(61290..61296)
+TGTACA
+>pRepA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(62727..62733)
+TTGCTA
+>pDmt promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (65160..65166)
+TTGTTT
+>p1Ban promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (68667..68673)
+TTGCTC
+>p3PmgT promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (84308..84314)
+TTGATT
+>pPhd promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (87985..87991)
+TGGTGC
+>pLpa promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (89917..89923)
+TTGCTA
+>pC1 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(94173..94179)
+TCTATT
+>p1Coi promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(94657..94663)
+TTGACA
+>p4Cre promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (94739..94745)
+TTGATT
+>p2Coi promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(62..68)
+TTGAAC
+>pC8 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (1393..1399)
+TTGTCA
+>p2Ref promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (1956..1962)
+CTATCA
+>p1Ref promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (2016..2022)
+TTGCCA
+>pMat promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (2665..2671)
+TTGACA
+>p1Res promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(6580..6586)
+TTGCCC
+>pDarB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(17316..17322)
+TTGTCT
+>p1Ssb promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (21015..21021)
+TTGCTC
+>pLyz promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(21064..21070)
+TTTACA
+>pIsaB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (23418..23424)
+TAGACA
+>pInsA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(23448..23454)
+TTGATT
+>p2Cin promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (31537..31543)
+TTTCCT
+>p1Cin promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (31588..31594)
+TTTCCA
+>pLydC promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(31681..31687)
+TTGATA
+>p1PmgC promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(46776..46782)
+TTGAAA
+>p2PmgC promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(46856..46862)
+TTGATG
+>p3PmgC promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(46992..46998)
+TTCACA
+>pSimB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(48064..48070)
+ATGAGT
+>pSimA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(48128..48134)
+TTTAAT
+>pRepL promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (50465..50471)
+TTCACC
+>pRlfA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (51684..51690)
+TTGCAA
+>p1RlfB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (51861..51867)
+TAGAGA
+>p3RlfB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (51944..51950)
+TTGAAT
+>p4RlfB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (52169..52175)
+TTGAGA
+>pAsrlf promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(53005..53011)
+TTGAAA
+>p2PmgF promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(53563..53569)
+TTGAAA
+>p123 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(58856..58862)
+TTGTCA
+>p223 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(58964..58970)
+CTGACT
+>p1PpfA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(64004..64010)
+TTGATG
+>p2PpfA promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(64223..64229)
+TTGAAG
+>p1Upl promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(70243..70249)
+TTGAGA
+>p2Upl promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(70276..70282)
+TTGACT
+>p2Dbn promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (72021..72027)
+TTGAGA
+>p1Dbn promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (72405..72411)
+TTGAAC
+>p2PmgL promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (78504..78510)
+TTGAAT
+>p1PmgL promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (78537..78543)
+GTGCAA
+>p26 promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(78838..78844)
+GTCAAA
+>pPmgN promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (79395..79401)
+TTGAAC
+>pPmgR promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (82152..82158)
+TTGCTC
+>p2Ban promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (68650..68656)
+ATGACG
+>p1PmgT promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (83976..83982)
+TTGATA
+>p2PmgT promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (84293..84299)
+TTGCTC
+>p1UpfM promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (85950..85956)
+TTGTTT
+>p2UpfM promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (85983..85989)
+CTGAAA
+>pUpfN promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (86171..86177)
+TTGACG
+>p1Lxr promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(87487..87493)
+CTGATG
+>p2Lxr promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, complement(87571..87577)
+TTCACC
+>p1HumD promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (87516..87522)
+TTTGCA
+>pPacB promoter(-35 region), Enterobacteria phage P1, RefSeq:NC_005856, (91579..91585)
+TTGCCG
+>pE promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (992..998)
+TTTACA
+>pCM promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, complement(1093..1099)
+TTTAAA
+>pGEM promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (8155..8161)
+TTTCCA
+>pM promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (9183..9189)
+TTAATC
+>pLyz promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (10413..10427)
+CCATAATCCCGCAC
+>pI promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (17987..18001)
+GCATAACCCCAGAT
+>pP promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (27297..27311)
+CCATAACCCCGGAC
+>pMom promoter(-35 region), Enterobacteria phage Mu, RefSeq:NC_000929, (35703..35717)
+CAATAACCACACTC
+>PL1 promoter(-35 region), Staphylococcus phage P68, RefSeq:NC_004679, complement(8224..8230)
+TTTATT
+>PR1 promoter(-35 region), Staphylococcus phage P68, RefSeq:NC_004679, (279..285)
+TTGACA
+>PR2 promoter(-35 region), Staphylococcus phage P68, RefSeq:NC_004679, (820..826)
+TTTACG
+>PR3 promoter(-35 region), Staphylococcus phage P68, RefSeq:NC_004679, (2716..2722)
+ATGAAG
+>PL5 promoter(-35 region), Staphylococcus phage P68, RefSeq:NC_004679, complement(17993..17999)
+TTTACT
+>PL1 promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, complement(35611..35617)
+TTGACA
+>PaQ promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, complement(44172..44186)
+TTGCGAGCACTTGC
+>PR promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, (37987..37993)
+TTGACT
+>PRM promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, complement(37969..37975)
+TAGATA
+>PL2 promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, complement(35652..35658)
+TACAGA
+>PRE promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, complement(38368..38382)
+TTGCGTTTGTTTGC
+>PR' promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, (44551..44557)
+TTGACT
+>PI promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, complement(29090..29104)
+TTGCGTGTAATTGC
+>PsieB promoter(-35 region), Enterobacteria phage lambda, RefSeq:NC_001416, (34433..34439)
+TGTACC
+>pRM promoter(-35 region), Enterobacteria phage 933W, RefSeq:NC_000924, complement(12811..12817)
+CTGAAA
+>pL promoter(-35 region), Enterobacteria phage 933W, RefSeq:NC_000924, complement(9720..9726)
+TTGATA
+>pR promoter(-35 region), Enterobacteria phage 933W, RefSeq:NC_000924, (12801..12807)
+TTGCAA
+>A1 promoter(-35 region), Bacillus phage Nf, EMBL:EU622808, complement(320..326)
+TTGACA
+>C1A promoter(-35 region), Bacillus phage Nf, EMBL:EU622808, complement(17692..17698)
+TTGACA
+>C2 promoter(-35 region), Bacillus phage Nf, EMBL:EU622808, complement(18672..18678)
+TAGACA
+>A2c promoter(-35 region), Bacillus phage Nf, EMBL:EU622808, complement(4674..4680)
+TTGAAA
+>A2b promoter(-35 region), Bacillus phage Nf, EMBL:EU622808, complement(4770..4776)
+TTGCAT
+>pR promoter(-35 region), Bacillus phage phi105, RefSeq:NC_004167, (28094..28100)
+TTTACA
+>pM promoter(-35 region), Bacillus phage phi105, RefSeq:NC_004167, complement(27983..27989)
+TTGTAT
+>Pant promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, (14792..14798)
+TTGACA
+>Pmnt promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(14820..14826)
+TTGAGA
+>PsieB promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, (29689..29695)
+TGTACC
+>Psar promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(15119..15125)
+GTGTTA
+>Pl promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(30914..30920)
+TTGACC
+>Prm promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(31695..31701)
+AGGAAT
+>Pr promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, (31685..31691)
+TTGACT
+>Pa23 promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(37480..37486)
+TTGCGA
+>Plate promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, (37851..37857)
+TTGACT
+>aI promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, (22895..22901)
+TTGCGG
+>Pgtr promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(21135..21141)
+TTGATC
+>PsieA promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(13885..13891)
+TTGGTA
+>Pre promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(32052..32058)
+TTGCGA
+>Poop promoter(-35 region), Enterobacteria phage P22, RefSeq:NC_002371, complement(32368..32374)
+TGGTCA
+>pL promoter(-35 region), Enterobacteria phage HK022, RefSeq:NC_002166, complement(28341..28347)
+TTTACA
+>pR promoter(-35 region), Enterobacteria phage HK022, RefSeq:NC_002166, (29149..29155)
+TTGACT
+>pRE promoter(-35 region), Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, complement(12036..12050)
+TTGCTGTAACTTGT
+>pL promoter(-35 region), Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, complement(9360..9366)
+TTGACC
+>pR promoter(-35 region), Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, (11614..11620)
+TTGTAT
+>pRM promoter(-35 region), Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, complement(11588..11594)
+TGGATG
+>pR promoter(-35 region), Escherichia Stx1 converting phage, RefSeq:NC_004913, (43503..43509)
+TTGTAT
+>pRM promoter(-35 region), Escherichia Stx1 converting phage, RefSeq:NC_004913, complement(43477..43483)
+TGGATG
+>pL promoter(-35 region), Escherichia Stx1 converting phage, RefSeq:NC_004913, complement(41249..41255)
+TTGACC
+>pAQ promoter(-35 region), Escherichia Stx1 converting phage, RefSeq:NC_004913, (50961..50967)
+TTGCAC
+>pL promoter(-35 region), Stx2 converting phage I, RefSeq:NC_003525, complement(43046..43052)
+TAGAAA
+>pRM promoter(-35 region), Stx2 converting phage I, RefSeq:NC_003525, complement(44518..44524)
+TTCAGA
+>pR promoter(-35 region), Stx2 converting phage I, RefSeq:NC_003525, (44547..44553)
+TTGCAA
+>pR promoter(-35 region), Stx2 converting phage II, RefSeq:NC_004914, (43503..43509)
+TTGTAT
+>pL promoter(-35 region), Stx2 converting phage II, RefSeq:NC_004914, complement(41249..41255)
+TTGACC
+>pRM promoter(-35 region), Stx2 converting phage II, RefSeq:NC_004914, complement(43477..43483)
+TGGATG
+>pE promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, (25883..25889)
+TTGACA
+>pC promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, complement(25981..25987)
+ATGAAT
+>pOgr promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, (23972..23978)
+TTGTTT
+>pO promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, (3087..3093)
+CTGATG
+>pP promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, complement(3048..3054)
+TTAGCG
+>pF promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, (17589..17595)
+TAGCCT
+>pV promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, (10271..10277)
+TAGCAT
+>pOLD promoter(-35 region), Enterobacteria phage P2, RefSeq:NC_001895, complement(33454..33460)
+TTGAAT
+>pLL promoter(-35 region), Enterobacteria phage P4, RefSeq:NC_001609, complement(9115..9121)
+TTGCGT
+>pLE promoter(-35 region), Enterobacteria phage P4, RefSeq:NC_001609, complement(8722..8728)
+TTGCCT
+>psid promoter(-35 region), Enterobacteria phage P4, RefSeq:NC_001609, (9521..9527)
+TCGTGT
+>pgop promoter(-35 region), Enterobacteria phage P4, RefSeq:NC_001609, (141..147)
+TTGATG
+>pcII promoter(-35 region), Enterobacteria phage P4, RefSeq:NC_001609, complement(2593..2599)
+TGGAGT
+>pint promoter(-35 region), Enterobacteria phage P4, RefSeq:NC_001609, complement(3976..3982)
+TTGAAA
+>pC1 promoter(-35 region), Enterobacteria phage SP6, RefSeq:NC_004831, (575..581)
+TTGACA
+>pC2 promoter(-35 region), Enterobacteria phage SP6, RefSeq:NC_004831, (1485..1491)
+TTGACT
+>pC3 promoter(-35 region), Enterobacteria phage SP6, RefSeq:NC_004831, (2041..2047)
+TTGAAA
+>pC4 promoter(-35 region), Enterobacteria phage SP6, RefSeq:NC_004831, (3321..3327)
+TTGACT
+>A1 promoter(-35 region), Pseudomonad phage gh-1, RefSeq:NC_004665, (251..257)
+TTGACA
+>A2 promoter(-35 region), Pseudomonad phage gh-1, RefSeq:NC_004665, (390..396)
+TTTACA
+>A3 promoter(-35 region), Pseudomonad phage gh-1, RefSeq:NC_004665, (598..604)
+TTGACA
+>A4 promoter(-35 region), Pseudomonad phage gh-1, RefSeq:NC_004665, (957..963)
+TGCACA
+>C1b promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(18901..18907)
+TTGACA
+>C2 promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(20995..21001)
+TTGACT
+>A2c promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(6585..6591)
+CTAGCA
+>A2b promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(6675..6681)
+TTGTGT
+>A1c promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(1589..1595)
+TTGTAA
+>A1b promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(1909..1915)
+TTGACT
+>A1a promoter(-35 region), Bacillus phage GA-1, RefSeq:NC_002649, complement(2725..2731)
+TTGACT
+>PE1 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (221..227)
+TTGACA
+>PE2 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (315..321)
+TTGACA
+>PE3 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (972..978)
+TTGCTT
+>PL1 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (4698..4704)
+TTCATG
+>PL2 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (4797..4803)
+TTACAG
+>PL3 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (6493..6499)
+TTGAGG
+>PL4 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (8164..8170)
+TTCAGA
+>PL5 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (11535..11541)
+AGGACA
+>PL6 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (13077..13083)
+ATGGCA
+>PL7 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (14895..14901)
+AAAACA
+>PL8 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (15864..15870)
+TTGACC
+>PL9 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (15944..15950)
+TTTACG
+>PPR promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, (18528..18534)
+TTAAGC
+>PE4 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, complement(19116..19122)
+TTGACA
+>PE5 promoter(-35 region), Streptococcus phage Cp-1, RefSeq:NC_001825, complement(19022..19028)
+TTGACA
+>Promoter1 promoter(-35 region), Pseudomonas phage phiKMV, RefSeq:NC_005045, (902..908)
+TTGACA
+>Promoter2 promoter(-35 region), Pseudomonas phage phiKMV, RefSeq:NC_005045, (981..987)
+TTGACA
+>Promoter3 promoter(-35 region), Pseudomonas phage phiKMV, RefSeq:NC_005045, (1135..1141)
+CTGACA
+>Promoter4 promoter(-35 region), Pseudomonas phage phiKMV, RefSeq:NC_005045, (1236..1242)
+TTGACA
+>pL promoter(-35 region), Salmonella phage HK620, RefSeq:NC_002730, complement(7862..7868)
+TTTACA
+>pR promoter(-35 region), Salmonella phage HK620, RefSeq:NC_002730, (9163..9169)
+TTGATT
+>pX promoter(-35 region), Salmonella phage HK620, RefSeq:NC_002730, complement(1267..1273)
+TTGACA
+>pRE promoter(-35 region), Salmonella phage HK620, RefSeq:NC_002730, complement(9541..9547)
+TTGCGA
+>pI promoter(-35 region), Salmonella phage HK620, RefSeq:NC_002730, complement(1695..1701)
+TTGCCT
+>pR' promoter(-35 region), Salmonella phage HK620, RefSeq:NC_002730, (15559..15565)
+TTGACT
+>B2 promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(15332..15338)
+TACACA
+>A2a promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(5222..5228)
+ATGGCA
+>A1.IV promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(2559..2565)
+TTGATA
+>C1 promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(17637..17643)
+TTTACA
+>A2c promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(5000..5006)
+TTGAAA
+>C2 promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(19152..19158)
+TAGACA
+>B1 promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(11486..11492)
+TTGTTC
+>A2b promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(5098..5104)
+TTGCAA
+>A1 promoter(-35 region), Bacillus phage phi29, RefSeq:NC_011048, complement(350..356)
+TTGACA
+>P42 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(26344..26353)
+ATTGCTTTT
+>P61 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(19146..19155)
+AATGCTTTT
+>P46 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(35039..35048)
+AATACTTTT
+>P55 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(40204..40213)
+ATAGGTCTT
+>P55.9 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(43048..43057)
+TTGGCTATT
+>P55.8 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(42830..42839)
+TTTGCATAA
+>Ptd promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(145166..145175)
+AATGGTTGA
+>PnrdA promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(142750..142759)
+AACCAAAGC
+>Pvs promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(61973..61982)
+CAAGAGTTA
+>p5R' promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(79366..79375)
+GATGTAAAC
+>Pcd promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(133028..133037)
+ACTATGATG
+>Pcd.3 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(133789..133798)
+AAAGATTTA
+>P5R promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(79360..79369)
+AACGATTAT
+>Panti-late promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(109130..109139)
+TTAGATTCT
+>PpseT.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(135423..135432)
+AATGATTAA
+>P55' promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(40229..40238)
+ATTGATTCA
+>P40 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(23532..23541)
+TTTGATTAA
+>PmotB promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(7208..7215)
+GTTTACA
+>PmodB promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(13179..13186)
+GTTTACT
+>Pmrh.2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(15281..15288)
+GTTTACT
+>Pdmd promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(20605..20612)
+GTTTACA
+>Pimm.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(27073..27080)
+GTTTACA
+>PnrdC.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(50966..50973)
+GTTTACT
+>PmotA promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(163666..163673)
+GTTTACA
+>PtRNA.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(73565..73572)
+GTTTACA
+>Pcef promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(6623..6630)
+ATATACA
+>P2.3 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(2366..2372)
+TTGATA
+>P16.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(16388..16394)
+TTGTGG
+>P16.8 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(17179..17186)
+GTGATAA
+>P16.8.REV promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, (17058..17064)
+TTCATC
+>P17.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(17714..17720)
+TTAATA
+>P17.7 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(18063..18069)
+TGGAAA
+>P74.6_bacREV promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, (75572..75578)
+TTGACA
+>P106.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(107275..107281)
+TTTACA
+>P115.8 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(117165..117171)
+TTTACT
+>P141.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(142855..142861)
+TTGAAT
+>P144.8_REV promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, (146915..146921)
+TAGGGT
+>P145.7 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(147924..147930)
+TTGCGA
+>P147.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(149308..149314)
+TTGCTA
+>P147.7/1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(149899..149905)
+TTGCTT
+>P147.7/2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(149926..149932)
+TTGATT
+>P5.3/1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(5549..5555)
+TTACTA
+>P5.3/2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(5565..5571)
+TTGTCT
+>P5.3/3 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(5565..5571)
+TTGTCT
+>P26.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(26346..26352)
+TTGCTT
+>P26.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(26476..26482)
+TTAACT
+>P26.2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(26587..26593)
+TGGTTT
+>P65.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(65856..65862)
+TTGCTA
+>P65.5 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(66461..66467)
+TTCACA
+>P65.7/1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(66535..66541)
+TTTAGA
+>P65.7/2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(66600..66606)
+TTAACT
+>P73.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(74887..74893)
+TTGATA
+>P125.9 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(127267..127273)
+TTGACT
+>P59.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(60524..60530)
+TTACTC
+>P1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(75416..75425)
+AATGCTTCA
+>PrIIB2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(146..155)
+AATGCTTCA
+>P45.2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(33280..33289)
+TATGCTTTA
+>P57A promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(74900..74909)
+TTTGCTTTA
+>PrIIB1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(401..410)
+GATGCTTTT
+>P39 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(5373..5382)
+TTAGCTTTA
+>P45 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(32650..32659)
+ATTGCTTTA
+>P47 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(36600..36609)
+TTAGCTTTA
+>P56/69 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(16837..16846)
+ATTGCTTAC
+>PnrdBin promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(138963..138972)
+TTTGCTTGC
+>Pagt.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(38705..38714)
+ATTGCTTTA
+>PtRNAsc1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(72617..72626)
+TATGCTTTA
+>PsegA promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(24481..24490)
+GATGCTTTC
+>PnrdB promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(139902..139911)
+CGTGCTTAA
+>P43 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(29958..29967)
+GGGGCTTCG
+>PdsbA promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(149897..149906)
+ATTGCTTCA
+>P34i promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(153036..153045)
+TTTGCTTCA
+>PuvsX promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(23777..23786)
+TTTGCTTAA
+>PuvsY promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(115396..115405)
+AATGCTTCA
+>PrIIA promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(2288..2297)
+CCCGCTTTA
+>P49.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(46466..46475)
+GATGCTTCA
+>P32 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(148082..148091)
+ATTGCTTAC
+>Pe.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(67952..67961)
+AATGATTTT
+>P3.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(3876..3883)
+GTTTACT
+>P1.4-3.9 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(2451..2458)
+GTTTACT
+>P8.1 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(8211..8218)
+GTTTACT
+>P11.5 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(11844..11851)
+GTTTACA
+>P19.8 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(20102..20109)
+GTTTACT
+>P35.3 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(35691..35698)
+TTTTACA
+>P40.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(41254..41261)
+GTTTACA
+>P41.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(41699..41706)
+GTTTACA
+>P46.7 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(47445..47452)
+GTTTACA
+>P54.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(53936..53943)
+GTTTACA
+>P54.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(55377..55384)
+GTTTACA
+>P57.9 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(58773..58780)
+GTTTACT
+>P62.2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(62790..62797)
+GTTTACT
+>PdenV promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(65406..65413)
+GTTTACA
+>P65.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(65792..65799)
+GTTTACA
+>P69.9 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(69960..69967)
+GTTTACA
+>P69.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(70352..70359)
+GTTTACA
+>P69.8 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(70689..70696)
+GTTTACA
+>P128.2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(129911..129918)
+GTTTACT
+>P128.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(130303..130310)
+GTTTACA
+>P131.7 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(133324..133331)
+GTTTACT
+>P134.4 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(136329..136336)
+GTTTACA
+>P144.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(146868..146875)
+GTTTACA
+>P148.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(150756..150763)
+GTTTACT
+>P158.7 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(161204..161211)
+GTTTACA
+>P164.2 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(166800..166807)
+GTTTACA
+>P164.5 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(167079..167086)
+GTTTACA
+>p65.6 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(66491..66498)
+GTTTACT
+>P73.0 promoter(-35 region), Enterobacteria phage T4, RefSeq:NC_000866, complement(73932..73939)
+GTTTACA
+>A1 promoter(-35 region), Bacillus phage B103, RefSeq:NC_004165, complement(320..326)
+TTGACA
+>A2c promoter(-35 region), Bacillus phage B103, RefSeq:NC_004165, complement(4680..4686)
+TTGAAA
+>A2b promoter(-35 region), Bacillus phage B103, RefSeq:NC_004165, complement(4771..4777)
+TTGCAT
+>C1a promoter(-35 region), Bacillus phage B103, RefSeq:NC_004165, complement(17564..17570)
+TTGACA
+>C2 promoter(-35 region), Bacillus phage B103, RefSeq:NC_004165, complement(18549..18555)
+TAGACA
+>A0 promoter(-35 region), Enterobacteria phage T3, RefSeq:NC_003298, complement(144..150)
+TTGACT
+>A1 promoter(-35 region), Enterobacteria phage T3, RefSeq:NC_003298, (442..448)
+TTGACT
+>A2 promoter(-35 region), Enterobacteria phage T3, RefSeq:NC_003298, (571..577)
+TTGACA
+>A3 promoter(-35 region), Enterobacteria phage T3, RefSeq:NC_003298, (682..688)
+TTGACA
+>B promoter(-35 region), Enterobacteria phage T3, RefSeq:NC_003298, (1327..1333)
+ATGAGT
+>C promoter(-35 region), Enterobacteria phage T3, RefSeq:NC_003298, (2882..2888)
+TTGACA
+>A1 promoter(-35 region), Klebsiella phage KP34, RefSeq:NC_013649, (930..936)
+TTGACA
+>A1 promoter(-35 region), Klebsiella phage F19, RefSeq:NC_023567, (967..973)
+TTGACA
+>A2 promoter(-35 region), Klebsiella phage F19, RefSeq:NC_023567, (1050..1056)
+TTGACA
+>A3 promoter(-35 region), Klebsiella phage F19, RefSeq:NC_023567, (1186..1192)
+CTGAGA
+>A1 promoter(-35 region), Klebsiella phage SU503, RefSeq:NC_028816, (1039..1045)
+TTGACA
+>A2 promoter(-35 region), Klebsiella phage SU503, RefSeq:NC_028816, (1168..1174)
+TTAAAA
+>A3 promoter(-35 region), Klebsiella phage SU503, RefSeq:NC_028816, (1181..1187)
+TTGACA
+>A1 promoter(-35 region), Klebsiella phage SU552A, RefSeq:NC_028870, (682..688)
+TTGCCC
+>A2 promoter(-35 region), Klebsiella phage SU552A, RefSeq:NC_028870, (873..879)
+TTGACA
+>A3 promoter(-35 region), Klebsiella phage SU552A, RefSeq:NC_028870, (942..948)
+TTGACA
+>A1 promoter(-35 region), Klebsiella phage K244, RefSeq:NC_025418, (952..958)
+TTGACA
+>A2 promoter(-35 region), Klebsiella phage K244, RefSeq:NC_025418, (1021..1027)
+TTGACA
+>A3 promoter(-35 region), Klebsiella phage K244, RefSeq:NC_025418, (1250..1256)
+CTCACA
+>Porf_36 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (13373..13379)
+TTGCAT
+>Porf_41 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (15767..15773)
+TTGACA
+>Porf_44 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (17524..17530)
+TTGCTT
+>Porf_83 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (39078..39084)
+TTGACA
+>Porf_166 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (93501..93507)
+TTGATT
+>Porf_181 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (100675..100681)
+TTGACA
+>Porf_189 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (106902..106908)
+TTGACA
+>Porf_360 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (262789..262795)
+TTGACA
+>Porf_395 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (281087..281093)
+TTGGCA
+>Porf_436 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (296159..296165)
+TTGACT
+>Porf_491 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (319311..319317)
+TTGACA
+>Porf_497 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (323293..323299)
+TTGACA
+>Porf_503 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (326295..326301)
+TTGACT
+>Porf_510 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (329133..329139)
+TTGCAA
+>Porf_524 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (336873..336879)
+TTGACT
+>Porf_525 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (337760..337766)
+TTGACG
+>Porf_538 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (345732..345738)
+TTGACA
+>Porf_546 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (349138..349144)
+TTGACT
+>Porf_66 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (29538..29545)
+TGAAACA
+>Porf_113 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (54896..54903)
+TGAAACG
+>Porf_193 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (108831..108838)
+TGAAACA
+>Porf_218 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (127474..127481)
+TGAAACG
+>Porf_235 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (145857..145864)
+TGGAACG
+>Porf_244 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (168993..169000)
+TGGAACG
+>Porf_258 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (184599..184606)
+TGAAACG
+>Porf_262 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (187471..187478)
+TGAAACG
+>Porf_265 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (191482..191489)
+TGAAACG
+>Porf_272 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (195586..195593)
+TGAAACT
+>Porf_282 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (206161..206168)
+TGGAATG
+>Porf_290 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (211051..211058)
+TGGAATG
+>Porf_300 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (217525..217532)
+TGAAACA
+>Porf_307 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (224014..224021)
+TGAAACG
+>Porf_312 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (226885..226892)
+TGAAACA
+>Porf_324 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (236751..236758)
+TGAAACA
+>Porf_329 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (243481..243488)
+TGAAATG
+>Porf_418 promoter(-35 region), Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (289730..289737)
+TGAAACG
+>A1 promoter(-35 region), Klebsiella phage K11, RefSeq:NC_011043, (580..586)
+TTGACA
+>A2 promoter(-35 region), Klebsiella phage K11, RefSeq:NC_011043, (714..720)
+TTGACT
+>p1 promoter(-35 region), Enterobacteria phage MmP1, RefSeq:NC_011085, (551..557)
+TTGACA
+>A0 promoter(-35 region), Yersinia phage phiA1122, RefSeq:NC_004777, complement(241..247)
+TTGACT
+>A1 promoter(-35 region), Yersinia phage phiA1122, RefSeq:NC_004777, (464..470)
+TTGACT
+>A2 promoter(-35 region), Yersinia phage phiA1122, RefSeq:NC_004777, (589..595)
+TTGACA
+>A3 promoter(-35 region), Yersinia phage phiA1122, RefSeq:NC_004777, (694..700)
+TTGACA
+>C promoter(-35 region), Yersinia phage phiA1122, RefSeq:NC_004777, (1305..1311)
+TTGACG
+>A1 promoter(-35 region), Enterobacteria phage BA14, RefSeq:NC_011040, (459..465)
+TTGACT
+>A2 promoter(-35 region), Enterobacteria phage BA14, RefSeq:NC_011040, (594..600)
+TTGACT
+>A3 promoter(-35 region), Enterobacteria phage BA14, RefSeq:NC_011040, (684..690)
+TTGACA
+>A4 promoter(-35 region), Enterobacteria phage BA14, RefSeq:NC_011040, (833..839)
+TTGACA
+>Porf017 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (10656..10662)
+TTGACA
+>Porf018 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (11182..11188)
+TTGACA
+>Porf018A promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (11574..11580)
+TTGACA
+>Porf024 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (13258..13264)
+TTGACA
+>Porf034 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (17535..17541)
+TTGACA
+>Porf039 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (19841..19847)
+TAGACA
+>Porf080 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (41938..41944)
+TTGACA
+>Porf112 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (58402..58408)
+TTGACA
+>Porf171 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (102412..102418)
+TTGACA
+>Porf332 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (252532..252538)
+TTGACA
+>Porf338 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (256997..257003)
+TTGACA
+>Porf368 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (275626..275632)
+TTGACA
+>Porf423 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (300496..300502)
+TTGACA
+>Porf454 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (317238..317244)
+TTGACA
+>Porf476 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (327324..327330)
+TTGACA
+>Porf481 promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (329874..329880)
+TTGACA
+>Porf487A promoter(-35 region), Cronobacter phage GAP32, RefSeq:NC_019401, (332867..332873)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage LKD16, RefSeq:NC_009935, (779..785)
+TTGACA
+>A2 promoter(-35 region), Pseudomonas phage LKD16, RefSeq:NC_009935, (857..863)
+TTGACA
+>A3 promoter(-35 region), Pseudomonas phage LKD16, RefSeq:NC_009935, (1009..1015)
+TTGACA
+>A4 promoter(-35 region), Pseudomonas phage LKD16, RefSeq:NC_009935, (1111..1117)
+TTGACA
+>A5 promoter(-35 region), Pseudomonas phage LKD16, RefSeq:NC_009935, (1260..1266)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage LKA1, RefSeq:NC_009936, (479..485)
+TTGAAT
+>A2 promoter(-35 region), Pseudomonas phage LKA1, RefSeq:NC_009936, (518..524)
+TTGACG
+>A3 promoter(-35 region), Pseudomonas phage LKA1, RefSeq:NC_009936, (691..697)
+TTGACA
+>A4 promoter(-35 region), Pseudomonas phage LKA1, RefSeq:NC_009936, (1175..1181)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage Pf-10, RefSeq:KP025626, (93..99)
+TTGACA
+>A2 promoter(-35 region), Pseudomonas phage Pf-10, RefSeq:KP025626, (196..202)
+TTGACA
+>A3 promoter(-35 region), Pseudomonas phage Pf-10, RefSeq:KP025626, (357..363)
+TTGACA
+>A4 promoter(-35 region), Pseudomonas phage Pf-10, RefSeq:KP025626, (8550..8556)
+TTGACA
+>A5 promoter(-35 region), Pseudomonas phage Pf-10, RefSeq:KP025626, complement(39086..39092)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (904..910)
+TTGACA
+>A2 promoter(-35 region), Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (984..990)
+TTGACA
+>A3 promoter(-35 region), Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (1138..1144)
+TTGACA
+>A4 promoter(-35 region), Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (1239..1245)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage LUZ19, RefSeq:NC_010326, (912..918)
+TTGACA
+>A2 promoter(-35 region), Pseudomonas phage LUZ19, RefSeq:NC_010326, (1145..1151)
+TTGACA
+>A3 promoter(-35 region), Pseudomonas phage LUZ19, RefSeq:NC_010326, (1247..1253)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage PT2, RefSeq:EU236438, (972..978)
+TTGACA
+>A2 promoter(-35 region), Pseudomonas phage PT2, RefSeq:EU236438, (1227..1233)
+TTGACA
+>A1 promoter(-35 region), Pseudomonas phage PT5, RefSeq:EU056923, (972..978)
+TTGACA
+>A2 promoter(-35 region), Pseudomonas phage PT5, RefSeq:EU056923, (1226..1232)
+TTGACA
+>PD/E20 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(4712..4718)
+TTGACA
+>PH22 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(4846..4852)
+TTGACA
+>P01 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(5985..5991)
+TTGCTA
+>P02 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (6433..6439)
+TTGCCT
+>P023 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(13260..13266)
+TTGACG
+>P033 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(16293..16299)
+TTGCTT
+>PF30 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(16801..16807)
+TTGCTA
+>P037 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(18598..18604)
+TTGCTT
+>P039 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(19416..19422)
+TTGACT
+>P042 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(21045..21051)
+TTGAAA
+>P048 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(24491..24497)
+TTGCAT
+>P054 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(26770..26776)
+TTGCTA
+>P10a promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(27209..27215)
+TATATA
+>P11 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(28645..28651)
+TTGCTT
+>P13b promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(32049..32055)
+TTGCTT
+>P13a promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(32806..32812)
+TTGCTA
+>P14b promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(34807..34813)
+TTGCTT
+>P14a promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(35574..35580)
+TTGCTC
+>P15c promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(35946..35952)
+TTGCCT
+>P15b promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(37295..37301)
+TTGCTA
+>P15a promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(37850..37856)
+TTGCTT
+>P12 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (37972..37978)
+TTGACA
+>P16-17 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(41602..41608)
+TTGCTA
+>PD/E33 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(42275..42281)
+TTGCTT
+>P085 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(43115..43121)
+TTGCTA
+>P087 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(44441..44447)
+TTGCTT
+>PH207 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(46034..46040)
+TTGCTA
+>Prnh promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(46385..46391)
+TTGCTT
+>Pthy promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(46985..46991)
+TTGAAA
+>PnrdA promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(50109..50115)
+TTGCTA
+>P090 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(53686..53692)
+TTGCTT
+>P091 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(53827..53833)
+TTGCTA
+>PnrdD promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (53902..53908)
+TTGACA
+>P100 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (55727..55733)
+TTGCTT
+>P108 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (59018..59024)
+TTGCAG
+>PN25 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (63062..63068)
+TTGCTT
+>PN26 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (64087..64093)
+TTGCTT
+>PligA promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (65303..65309)
+TTGCTT
+>PK28b promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (66385..66391)
+TTGACA
+>PK28a promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (66478..66484)
+TTGCTA
+>PD7-9 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (71005..71011)
+TTGCTG
+>31A promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (75486..75492)
+TTGGCA
+>P31B promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (75586..75592)
+TTGCTA
+>P134 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (81752..81758)
+TAGACA
+>P-G25 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(92061..92067)
+TTGATA
+>P-J5 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(99958..99964)
+TTGACA
+>P135 promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, (110368..110374)
+TTGCTT
+>Plpp promoter(-35 region), Escherichia phage T5, RefSeq:AY543070, complement(110423..110429)
+TTTACA
+>PI promoter(-35 region), Enterobacteria phage phi80, RefSeq:NC_021190, (24756..24762)
+TAGCTT
+>PL promoter(-35 region), Enterobacteria phage phi80, RefSeq:NC_021190, complement(33229..33235)
+TTGACC
+>PRM promoter(-35 region), Enterobacteria phage phi80, RefSeq:NC_021190, complement(35342..35348)
+TGGAAA
+>PR promoter(-35 region), Enterobacteria phage phi80, RefSeq:NC_021190, (35359..35365)
+TTGATT
+>PR' promoter(-35 region), Enterobacteria phage phi80, RefSeq:NC_021190, (41988..41994)
+TTGCAT
+>PB promoter(-35 region), Enterobacteria phage 186, RefSeq:NC_001317, (20548..20554)
+TTCACA
+>PR promoter(-35 region), Enterobacteria phage 186, RefSeq:NC_001317, (23025..23031)
+TTTACT
+>PL promoter(-35 region), Enterobacteria phage 186, RefSeq:NC_001317, complement(23153..23159)
+TTGCGA
+>PE promoter(-35 region), Enterobacteria phage 186, RefSeq:NC_001317, complement(23427..23433)
+TTGCAT
+>P95 promoter(-35 region), Enterobacteria phage 186, RefSeq:NC_001317, (29019..29025)
+TTCACA
+>P1 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, complement(395..401)
+TTGACA
+>P2 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, (499..505)
+TAACCA
+>P3 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, (646..652)
+TTGAGA
+>P4 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, (1671..1677)
+AAGACA
+>P5 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, (5025..5031)
+TTTAAA
+>P6 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, complement(17904..17910)
+TTGACA
+>P7 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, complement(18257..18263)
+TAACCA
+>P8 promoter(-35 region), Lactococcus phage asccphi28, RefSeq:EU438902, (18361..18367)
+TTGACA
+>PL promoter(-35 region), Enterobacteria phage ES18, RefSeq:NC_006949, complement(36074..36080)
+TTGACC
+>PR promoter(-35 region), Enterobacteria phage ES18, RefSeq:NC_006949, (36845..36851)
+TTGACT
+>Pmnt promoter(-35 region), Salmonella phage epsilon34, RefSeq:NC_011976, (15309..15315)
+TTGACA
+>Psar promoter(-35 region), Salmonella phage epsilon34, RefSeq:NC_011976, complement(15633..15639)
+TTCACT
+>PL promoter(-35 region), Salmonella phage epsilon34, RefSeq:NC_011976, complement(30859..30865)
+TTGCAA
+>PR promoter(-35 region), Salmonella phage epsilon34, RefSeq:NC_011976, complement(32826..32832)
+TATACA
+>PR' promoter(-35 region), Salmonella phage epsilon34, RefSeq:NC_011976, (39283..39289)
+TTGACT

@@ -1,0 +1,1601 @@
+>A1 promoter, Bacillus phage B103, RefSeq:NC_004165, complement(297..326)
+TTGACAAATGGTAGAATTTATGGTATAAT
+>A2c promoter, Bacillus phage B103, RefSeq:NC_004165, complement(4657..4686)
+TTGAAAATTGTTGAACAGCATGATATACT
+>A2b promoter, Bacillus phage B103, RefSeq:NC_004165, complement(4747..4777)
+TTGCATTTTGTTAACACCAGTTAAAATAAT
+>A3 promoter, Bacillus phage B103, RefSeq:NC_004165, (4827..4856)
+ATGAATACCAAGGGTTCCCGTGATATAAT
+>C1a promoter, Bacillus phage B103, RefSeq:NC_004165, complement(17538..17570)
+TTGACAAACACATGCGGAAACAGGGGTATAAA
+>C2 promoter, Bacillus phage B103, RefSeq:NC_004165, complement(18526..18555)
+TAGACAACCAGACTATAAAATGTTATACT
+>A1c promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(1558..1595)
+TTGTAAATGATTTCACTATGTGATATAATAAAGATAG
+>A1b promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(1878..1915)
+TTGACTTGGAGTTTAAATAATGCTATAATAATATTAT
+>A1a promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(2694..2731)
+TTGACTTCTTTTTTATTTCATAGTATACTAGAGATAG
+>A2c promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(6557..6591)
+CTAGCATTTAATAAAGAGTGTGTAAAAGAATGTG
+>A2b promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(6645..6681)
+TTGTGTTTTTGTTCTAGTGGTGCTATTATTTAATTA
+>A3 promoter, Bacillus phage GA-1, RefSeq:NC_002649, (6735..6767)
+ATAATGCGTCAAAATATGATATAATTAATCTA
+>C1b promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(18871..18907)
+TTGACAGAAGAGAAATAATATAGTATACTAAAGATA
+>C2 promoter, Bacillus phage GA-1, RefSeq:NC_002649, complement(20964..21001)
+TTGACTCTCATTGCCAATCTATGTTATACTATAATTA
+>A1 promoter, Bacillus phage Nf, EMBL:EU622808, complement(297..326)
+TTGACATTTGATAGAATTTATGGTATAAT
+>C1A promoter, Bacillus phage Nf, EMBL:EU622808, complement(17666..17699)
+TTTGACAAACACATGCGGAAACAGGGATATAAA
+>C2 promoter, Bacillus phage Nf, EMBL:EU622808, complement(18649..18678)
+TAGACAACCAGACTATAAAATGTTATACT
+>A2c promoter, Bacillus phage Nf, EMBL:EU622808, complement(4644..4680)
+TTGAAAAATGTTGAACAGCATGATATACTAAAAGAG
+>A2b promoter, Bacillus phage Nf, EMBL:EU622808, complement(4739..4776)
+TTGCATTTTGTTTAACATCACCTTAGAATAATGAGTG
+>A3 promoter, Bacillus phage Nf, EMBL:EU622808, (4829..4863)
+GAATACCAAGGGTTTCCGTGATATAATAAAATAG
+>pM promoter, Bacillus phage phi105, RefSeq:NC_004167, complement(27953..27989)
+TTGTATTTCCGACATTCGGATACTATAATTGTGTCA
+>pR promoter, Bacillus phage phi105, RefSeq:NC_004167, (28094..28130)
+TTTACAAAATGTCGTGAATACCATACAATTTAGACA
+>A1 promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(320..356)
+TTGACAACTATTACAGAGTATGCTATAATGGTAGTA
+>A1.IV promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(2527..2565)
+TTGATATATGTTTAGGCTACAAAGGGAAACGTAAGATA
+>A2c promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(4970..5006)
+TTGAAAATTGTCGAACAGGGTGATATAATAAAAGAG
+>A2b promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(5066..5104)
+TTGCAAAAAGTTATACAGGTGTGGTTAAATAGAGAACG
+>A3 promoter, Bacillus phage phi29, RefSeq:NC_011048, (5158..5190)
+GTATCAAGGGTTCACGTGGTATAATTAAGTAG
+>A2a promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(5189..5228)
+ATGGCATATGTTTCACCTCTTTCTATAATCTATTAGTAC
+>B1 promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(11456..11492)
+TTGTTCATTTTCTCCAATAATGTTAAACTTTCATCA
+>B2 promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(15299..15338)
+TACACACAAAGCCGTATAAACCGTGTATAATAGGGGTAA
+>C1 promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(17607..17643)
+TTTACAAAGTGAACAGGAAGTGTTAAACTATATAGA
+>C2 promoter, Bacillus phage phi29, RefSeq:NC_011048, complement(19121..19158)
+TAGACAAACTATCGTTTAACATGTTATACTATAATAG
+>pL promoter, Enterobacteria phage 933W, RefSeq:NC_000924, complement(9689..9726)
+TTGATAATGTCGAACTATTGGTTCATTATTATCGTCG
+>pRM promoter, Enterobacteria phage 933W, RefSeq:NC_000924, complement(12781..12817)
+CTGAAAGTTTTTGCAAGTGCTTTAGTATCGTACTCA
+>pR promoter, Enterobacteria phage 933W, RefSeq:NC_000924, (12801..12838)
+TTGCAAAAACTTTCAGTTCAACCATAATACGTACTGA
+>pL promoter, Enterobacteria phage HK022, RefSeq:NC_002166, complement(28311..28347)
+TTTACATTAATGAACTTTAAGTACATCATAAGCCCA
+>pRM promoter, Enterobacteria phage HK022, RefSeq:NC_002166, complement(29128..29164)
+TGATAGTACAGTCAATACCTAATATAGTTGAACTTA
+>pR promoter, Enterobacteria phage HK022, RefSeq:NC_002166, (29149..29185)
+TTGACTGTACTATCAGTTCCGTCATAATATGAACCA
+>PI promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(29071..29104)
+TTGCGTGTAATTGCGGAGACTTTGCGATGTACT
+>PsieB promoter, Enterobacteria phage lambda, RefSeq:NC_001416, (34433..34464)
+TGTACCCCTACAGCGAGAAATCGGATAAACT
+>PL1 promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(35581..35617)
+TTGACATAAATACCACTGGCGGTGATACTGAGCACA
+>PL2 promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(35623..35658)
+TACAGATAACCATCTGCGGTGATAAATTATCTCTG
+>PRM promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(37939..37975)
+TAGATATTTATCCCTTGCGGTGATAGATTTAACGTA
+>PR promoter, Enterobacteria phage lambda, RefSeq:NC_001416, (37987..38023)
+TTGACTATTTTACCTCTGGCGGTGATAATGGTTGCA
+>PRE promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(38342..38382)
+TTGCGTTTGTTTGCACGAACCATATGTAAGTATTTCCTTA
+>POop promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(38682..38710)
+TGAGTATTTTTGCTGTATTTGTCATAAT
+>PaQ promoter, Enterobacteria phage lambda, RefSeq:NC_001416, complement(44144..44186)
+TTGCGAGCACTTGCAGTACCTTTGCCTTAGTATTTCCTTCAA
+>PR' promoter, Enterobacteria phage lambda, RefSeq:NC_001416, (44551..44588)
+TTGACTTATTGAATAAAATTGGGTAAATTTGACTCAA
+>pE promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (992..1028)
+TTTACAAAAAGCTTTTCAGTAATTATCTTTTTAGTA
+>pCM promoter, Enterobacteria phage Mu, RefSeq:NC_000929, complement(1065..1099)
+TTTAAAAACCCTCCTAAGTTTTGTAATCTATAAA
+>pGEM promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (8155..8219)
+TTTCCATAAAATCCTCTCTGATTGATGTGTAAATTCAGGCGGTGTTGCAGCACCGCCCCC
+TTTC
+>pM promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (9183..9224)
+TTAATCCGGCTTTTTTTACGTCCTCAATATCCTGTGATGAA
+>pLyz promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (10413..10457)
+CCATAATCCCGCACCTGCCACCTGATTTTTTAGACTGCCATCAG
+>pI promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (17987..18032)
+GCATAACCCCAGATTTTCCCGCACCTCCCGCAAACTGACTGCTCA
+>pP promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (27297..27342)
+CCATAACCCCGGACGGCGGCTTTTCACAGGTATCCTTTTCAGACA
+>pMom promoter, Enterobacteria phage Mu, RefSeq:NC_000929, (35703..35747)
+CAATAACCACACTCAACCCATGATGTTTTTTAAGATAGTGGCGA
+>p2Coi promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(40..68)
+TTGAACTGTATGGATTTACAGGTAAATT
+>p3Cre promoter, Enterobacteria phage P1, RefSeq:NC_005856, (103..129)
+TTGATCAAGGTTGCGCTACGTAAAAT
+>p2Cre promoter, Enterobacteria phage P1, RefSeq:NC_005856, (282..312)
+TTGATCGTGATAGTTGCCAACTGTCATTAT
+>p1Cre promoter, Enterobacteria phage P1, RefSeq:NC_005856, (399..424)
+TGTACACTTTACTTAAAACCATTAT
+>pC8 promoter, Enterobacteria phage P1, RefSeq:NC_005856, (1393..1425)
+TTGTCATGAACTATATCCGTAACCTGGATAGT
+>p2Ref promoter, Enterobacteria phage P1, RefSeq:NC_005856, (1956..1985)
+CTATCATTGCTCTAATTGATTGCTATAAT
+>p1Ref promoter, Enterobacteria phage P1, RefSeq:NC_005856, (2016..2044)
+TTGCCATTACTTCACTCCTTGACATCAT
+>pMat promoter, Enterobacteria phage P1, RefSeq:NC_005856, (2665..2696)
+TTGACAACTGACAAGTGACTTCAGTCAGAAT
+>LpMat promoter, Enterobacteria phage P1, RefSeq:NC_005856, (2665..2696)
+TTGACAACTGACAAGTGACTTCAGTCAGAAT
+>p1Res promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(6557..6586)
+TTGCCCCAAACAAAGTCGTGTTTTATGGT
+>p2Res promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(6890..6919)
+TTAAAAAAAGCACAACCACAAGTGATAAT
+>p3Res promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(6925..6952)
+TTGAAATAACAAAAAAAAGGATACAGG
+>p1Mod promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(9648..9677)
+GTGATAGTGCCACAACTTCTGGCTCTAAC
+>p2Mod promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(9746..9775)
+ATGCATTGCTTCTCAATGCGGATTAAACT
+>p1Lxc promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(10051..10080)
+CTGAAGAAGTTGACGACCAGGACTATGAG
+>p2Lxc promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(10220..10249)
+TTATTACTGGAGCGCGGTTATGGTAATTT
+>p3Lxc promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(10365..10392)
+TTGAGGCGGTACTGCGTACGGCATTGT
+>LpPro promoter, Enterobacteria phage P1, RefSeq:NC_005856, (17237..17269)
+GGTAATCCTTAACAAGTGACTAGTGTTAAATT
+>pDarB promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(17291..17322)
+TTGTCTGCCAAGATTGCACCTTAATTAGAAT
+>LpLyz promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(20961..20987)
+AAGTGATTTGCATTATCCTGTGTCTT
+>p2Ssb promoter, Enterobacteria phage P1, RefSeq:NC_005856, (20985..21021)
+TTGTTAGCTACGTTTCAAAGATATACATTATTGCTC
+>p1Ssb promoter, Enterobacteria phage P1, RefSeq:NC_005856, (21015..21048)
+TTGCTCTAATTAATTTATTTTATTAGGTAAGAT
+>pLyz promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(21043..21070)
+TTTACACCGCGTTGTGCCACTTATCTT
+>pIsaB promoter, Enterobacteria phage P1, RefSeq:NC_005856, (23418..23447)
+TAGACAAGCAAGATAGGGCGAATTAAAAT
+>pInsA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(23427..23454)
+TTGATTAATTTTAATTCGCCCTATCTT
+>LpDarA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(31202..31230)
+AAGTTACTTTGCATACCATTACCTCCTG
+>p2Cin promoter, Enterobacteria phage P1, RefSeq:NC_005856, (31537..31564)
+TTTCCTTAATAGTGAATTAAATATCAT
+>p1Cin promoter, Enterobacteria phage P1, RefSeq:NC_005856, (31588..31621)
+TTTCCACACATACTGGTTTTTGTTAATTAAAAT
+>pLydC promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(31659..31687)
+TTGATACGCGTACATAGCCTATTAGCAT
+>LpS promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(38309..38336)
+AAGTTACTTATCTTACAATGAGGCTTC
+>LpSit promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(46607..46638)
+TACTCAATGAACAAATGACTACTCGTAGAAT
+>p1PmgC promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(46753..46782)
+TTGAAAGGATAGTCAATTTAAGTTTTAAC
+>p2PmgC promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(46834..46862)
+TTGATGTAATGGAAGGATTTGATAGCAT
+>p3PmgC promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(46969..46998)
+TTCACAAATCAAGATCCTGTTCAGATGAT
+>pSimB promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(48041..48070)
+ATGAGTTATAAGGCAGGTGAGGTTATAAT
+>pSimA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(48107..48134)
+TTTAATAAATACACAGTTGGATCTAAT
+>p2C4 promoter, Enterobacteria phage P1, RefSeq:NC_005856, (48154..48183)
+TTGTATTTTTAAGTCGCGAATGCTATCTT
+>p1C4 promoter, Enterobacteria phage P1, RefSeq:NC_005856, (48194..48223)
+TTGACCTTTTAATCGTTCAGGCTTATAGT
+>pKilA promoter, Enterobacteria phage P1, RefSeq:NC_005856, (49791..49828)
+TGGATCGGGTCAGAAAAATTTGCTCTAATAAATTTCG
+>PAskilA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(49914..49951)
+TCGACATTTTGATGAAGGTTTGATATATTCATATCCG
+>pRepL promoter, Enterobacteria phage P1, RefSeq:NC_005856, (50465..50494)
+TTCACCTGGTTGCGTGATAACGGAATTCT
+>pRlfA promoter, Enterobacteria phage P1, RefSeq:NC_005856, (51684..51713)
+TTGCAATTAATAAACAACTAACGGACAAT
+>p1RlfB promoter, Enterobacteria phage P1, RefSeq:NC_005856, (51861..51890)
+TAGAGACATCAAGGAATTAAAATTAAAAC
+>p2RlfB promoter, Enterobacteria phage P1, RefSeq:NC_005856, (51902..51930)
+CTGATTTCGAAATCAAGTGGACTAAAGT
+>p3RlfB promoter, Enterobacteria phage P1, RefSeq:NC_005856, (51944..51971)
+TTGAATTTTACTTAGATGTCGTAGATT
+>p4RlfB promoter, Enterobacteria phage P1, RefSeq:NC_005856, (52169..52198)
+TTGAGAAATTAAGAGGGGTTCTTCACAAT
+>pAsrlf promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(52982..53011)
+TTGAAAAGCTAAAGTAGATCGGTTAGATT
+>p1PmgF promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(53434..53467)
+TTGAGTGGGATTAAGAGTCATCCCTTGTATTTT
+>p2PmgF promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(53540..53569)
+TTGAAATGTTGGACTGCAAAATCTACAGT
+>Lp23 promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(58824..58855)
+GAGAAAGTCAACAAGTGACTTTCAATAAAAT
+>p123 promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(58829..58862)
+TTGTCACGAGAAAGTCAACAAGTGACTTTCAAT
+>p223 promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(58938..58970)
+CTGACTGTTTTTAAAGTAAATTACTCTAAAAT
+>pParB promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(60033..60069)
+AAGATTTTGCTAAAGCAGTTTTTGACCGTATTGAAT
+>pPar promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(61267..61296)
+TGTACAAGCATCTACGCATACATTATTAT
+>pRepA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(62703..62733)
+TTGCTAATGTGTGCTGGCGGGATATAGGAT
+>p1PpfA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(63983..64010)
+TTGATGAATTAAACAAAGCGGCACAGT
+>p2PpfA promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(64199..64229)
+TTGAAGCACTGAAGGAAGCTACTGAACAAT
+>pDmt promoter, Enterobacteria phage P1, RefSeq:NC_005856, (65160..65190)
+TTGTTTTTTATGTCGTGTTTTCGGTACCAT
+>p2Ban promoter, Enterobacteria phage P1, RefSeq:NC_005856, (68650..68682)
+ATGACGTTTTGGGTATATTGCTCTAATAAATT
+>p1Ban promoter, Enterobacteria phage P1, RefSeq:NC_005856, (68667..68703)
+TTGCTCTAATAAATTTATTAGTGTAATATCGCCTCA
+>p1Upl promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(70222..70249)
+TTGAGAATGCCGAGCATTTATTAACCT
+>p2Upl promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(70253..70282)
+TTGACTCCGCCAGCCGCTTTGCGGAATTT
+>p2Dbn promoter, Enterobacteria phage P1, RefSeq:NC_005856, (72021..72049)
+TTGAGATGCCGAGCCACCAGCTGATGAT
+>p1Dbn promoter, Enterobacteria phage P1, RefSeq:NC_005856, (72405..72438)
+TTGAACAGCGTGCGGACAAACGACCGGTAAATT
+>Lp26 promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(78484..78511)
+TATTCAACAAATGACTAGCGGTAGAAT
+>LpPmgL promoter, Enterobacteria phage P1, RefSeq:NC_005856, (78482..78513)
+TGATTCTACCGCTAGTCATTTGTTGAATATT
+>p2PmgL promoter, Enterobacteria phage P1, RefSeq:NC_005856, (78504..78532)
+TTGAATATTTAACTCAATAAAAGAAAAT
+>p1PmgL promoter, Enterobacteria phage P1, RefSeq:NC_005856, (78537..78565)
+GTGCAATTTTGATTGTGAAATGTATCAT
+>p26 promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(78815..78844)
+GTCAAATCCTGCCGGTCGCATGCCATATT
+>pPmgN promoter, Enterobacteria phage P1, RefSeq:NC_005856, (79395..79422)
+TTGAACGGCGATAAGTGGTTGTATGCT
+>pPmgR promoter, Enterobacteria phage P1, RefSeq:NC_005856, (82152..82181)
+TTGCTCTAATAATTCCATATTTTTAAAAC
+>p1PmgT promoter, Enterobacteria phage P1, RefSeq:NC_005856, (83976..84004)
+TTGATATGGTGCGCCAGTTATTTAACGT
+>p2PmgT promoter, Enterobacteria phage P1, RefSeq:NC_005856, (84293..84322)
+TTGCTCTAATAAATCTTGATTTTTAAAAC
+>p3PmgT promoter, Enterobacteria phage P1, RefSeq:NC_005856, (84308..84337)
+TTGATTTTTAAAACAGAGAAAGTGAAAAT
+>p1UpfM promoter, Enterobacteria phage P1, RefSeq:NC_005856, (85950..85979)
+TTGTTTCCACATCAAGGAGATTTTAATGT
+>p2UpfM promoter, Enterobacteria phage P1, RefSeq:NC_005856, (85983..86012)
+CTGAAACATTAAGTAAGCCAGTGCATAAT
+>pUpfN promoter, Enterobacteria phage P1, RefSeq:NC_005856, (86171..86200)
+TTGACGTAGAAACCCAACCCTTATATAGT
+>LpHot promoter, Enterobacteria phage P1, RefSeq:NC_005856, (86520..86544)
+AAGTTACTTTGCTGGTTAAATAAT
+>p1Lxr promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(87465..87493)
+CTGATGATTTTGTGCGCTTTGCTACTAT
+>p1HumD promoter, Enterobacteria phage P1, RefSeq:NC_005856, (87516..87543)
+TTTGCACCAAAGGTGTCTCTTTAATGT
+>p2Lxr promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(87545..87577)
+TTCACCTCAATAATACTGTTCATTTATACAGT
+>pPhd promoter, Enterobacteria phage P1, RefSeq:NC_005856, (87985..88014)
+TGGTGCTTTATGCCTGTGAAGTTTATAAT
+>pLpa promoter, Enterobacteria phage P1, RefSeq:NC_005856, (89917..89953)
+TTGCTATTTCTTTAATCGAGGGTATTATATTCCACG
+>LpPac promoter, Enterobacteria phage P1, RefSeq:NC_005856, (90462..90493)
+GGGCCTTTTGACATGTGACTTTCGTTACCCT
+>pPacB promoter, Enterobacteria phage P1, RefSeq:NC_005856, (91579..91611)
+TTGCCGATATCGTCGATACAGGTGGTTATGGT
+>pC1 promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(94141..94179)
+TCTATTATTTTCGTTGGATCCTTCTATAATGGTGGCCA
+>p1Coi promoter, Enterobacteria phage P1, RefSeq:NC_005856, complement(94626..94663)
+TTGACAATTGCTCTAATAAATTATAGTTTTGCCGCCG
+>p4Cre promoter, Enterobacteria phage P1, RefSeq:NC_005856, (94739..94777)
+TTGATTTTTATGCGCAGCTGGACGTAAACTCCTCTTCA
+>pP promoter, Enterobacteria phage P2, RefSeq:NC_001895, complement(3015..3054)
+TTAGCGAATCGCGGGGCGCGACTCAGTAGCCTTGCCGTG
+>pO promoter, Enterobacteria phage P2, RefSeq:NC_001895, (3087..3127)
+CTGATGGCGGAGGATGCGCATCGTCGGGAAACTGATGCCG
+>pV promoter, Enterobacteria phage P2, RefSeq:NC_001895, (10271..10308)
+TAGCATAACTTTTATATATTGTGCAATCTCACATGCA
+>pF promoter, Enterobacteria phage P2, RefSeq:NC_001895, (17589..17626)
+TAGCCTGACATCTCCGGCGCAACTGAAAATACCACTC
+>pOgr promoter, Enterobacteria phage P2, RefSeq:NC_001895, (23972..24001)
+TTGTTTTGTAAGGATAAATTAACTAAAAT
+>pE promoter, Enterobacteria phage P2, RefSeq:NC_001895, (25883..25912)
+TTGACATGGTGTTTAGATCTCAATAGTAT
+>pC promoter, Enterobacteria phage P2, RefSeq:NC_001895, complement(25961..25987)
+ATGAATTGCGTTTAATGTCTTATAAT
+>pOLD promoter, Enterobacteria phage P2, RefSeq:NC_001895, complement(33431..33460)
+TTGAATGCAACGACTATAAAATGTAAAAA
+>Pant promoter, Enterobacteria phage P22, RefSeq:NC_002371, (14792..14821)
+TTGACATGATAGAAGCACTCTACTATATT
+>Pmnt promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(14797..14826)
+TTGAGAATATAGTAGAGTGCTTCTATCAT
+>Psar promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(15089..15125)
+GTGTTAACTGCTTCTAAAATTGCTATACTATTCATG
+>PsieB promoter, Enterobacteria phage P22, RefSeq:NC_002371, (29689..29720)
+TGTACCCCTACAGCGAGAAATCGGATAAACT
+>Pl promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(30891..30920)
+TTGACCATTTAATTAAGAAGTCTTAAATT
+>Prm promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(31672..31701)
+AGGAATCTTTAGTCAAGTTTATTTAAGAT
+>Pr promoter, Enterobacteria phage P22, RefSeq:NC_002371, (31685..31713)
+TTGACTAAAGATTCCTTTAGTAGATAAT
+>Pa23 promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(37453..37486)
+TTGCGAGCACTTGCAGTACCTTTGCCTTAGTAT
+>Plate promoter, Enterobacteria phage P22, RefSeq:NC_002371, (37851..37880)
+TTGACTTTTTGAATAAAGTTGGGTAAATT
+>aI promoter, Enterobacteria phage P22, RefSeq:NC_002371, (22895..22928)
+TTGCGGGTGCTTGCCGCCGTACGTTGATAACAT
+>Pgtr promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(21113..21141)
+TTGATCGGTAACAACGATCAATTAACAT
+>PsieA promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(13860..13891)
+TTGGTACGTTTCCAATGTTAACTTTTTTCAT
+>Pre promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(32025..32058)
+TTGCGAGTGCTTGTGAGTTCCATATGTGAACAT
+>Poop promoter, Enterobacteria phage P22, RefSeq:NC_002371, complement(32345..32374)
+TGGTCAGGACTGAGTTGTTTTGGCATAAT
+>pgop promoter, Enterobacteria phage P4, RefSeq:NC_001609, (141..179)
+TTGATGGCACTATCCTGAAAAATATGCAAAAAATAGAT
+>pcII promoter, Enterobacteria phage P4, RefSeq:NC_001609, complement(2559..2599)
+TGGAGTTTTTAATTGTTAGTTGCTATAATAAAAATCAACG
+>pint promoter, Enterobacteria phage P4, RefSeq:NC_001609, complement(3945..3982)
+TTGAAATCCGGATATCATTGGGGGCATAATTGGGGGC
+>pLE promoter, Enterobacteria phage P4, RefSeq:NC_001609, complement(8692..8728)
+TTGCCTTTTTCCGGCATTTGCGGATATAGTTTTTCG
+>pLL promoter, Enterobacteria phage P4, RefSeq:NC_001609, complement(9086..9121)
+TTGCGTCTGCTGAAAATATTCACAAAATAAAGCGC
+>psid promoter, Enterobacteria phage P4, RefSeq:NC_001609, (9521..9557)
+TCGTGTTGTTGTCCGGTGTACGTCACAATTTTCTTA
+>pC1 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (575..608)
+TTGACACAGGCAGTAGTCGGTAGTACATTACAG
+>pC2 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (1485..1520)
+TTGACTACCACGGCTTACATAGGTTACATTAAGCA
+>pC3 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (2041..2075)
+TTGAAATGTTCTCTAAGGTTCGCCATGATGCGAG
+>pC4 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (3321..3354)
+TTGACTTATAGAGCGTCATTAAGTAAGATGGCG
+>P1 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (6117..6140)
+ATTTAAGGGACACTATAGGACTA
+>P2 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (8410..8433)
+AATTAGGTGACACTATAGAAGAG
+>P3 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (9111..9134)
+TATTACGTGACACTATAGGTGGG
+>P4 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (12541..12564)
+ATTTAGGTGACACTATAGGAGGA
+>P5 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (13004..13027)
+AATTAGGTGACACTATAGAACAA
+>P6 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (14285..14308)
+ATTTAGGGGACACTATAGAAGAG
+>P7 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (17427..17450)
+ATTTAAGTGACACTATAGAACAA
+>P8 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (22412..22435)
+ATTTAGGTGACACTATAGAAGGG
+>P9 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (37772..37795)
+AATTAGGGGACACTATAGAAGGA
+>P10 promoter, Enterobacteria phage SP6, RefSeq:NC_004831, (39909..39932)
+ATTTAGGTGACACTATAGAATAG
+>A0 promoter, Enterobacteria phage T3, RefSeq:NC_003298, complement(125..150)
+TTGACTTTAGGCATCACTTTAGGCT
+>phiOL promoter, Enterobacteria phage T3, RefSeq:NC_003298, (365..388)
+TATTTACCCTCACTAAAGGGAAT
+>A1 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (442..472)
+TTGACTTTAAGTTACCTTTAAGGCTATTAT
+>A2 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (571..601)
+TTGACAACGCAAGGTAACAAGTAGTAAGAT
+>A3 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (682..711)
+TTGACAACATGAAGTAAGCACGGTACGAT
+>B promoter, Enterobacteria phage T3, RefSeq:NC_003298, (1327..1357)
+ATGAGTTCGGTCGCCGCTGGCAAGTACAAT
+>C promoter, Enterobacteria phage T3, RefSeq:NC_003298, (2882..2911)
+TTGACAAGCGTCTACAAGGCTGATAGAGT
+>phi1.05 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (5641..5664)
+CATTAACCCTCACTAACGGGAGA
+>phi1.1 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (5983..6006)
+AGTTAACCCTCACTAACGGGAGA
+>phi1.3 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (6497..6520)
+TAATAACCCTCACTAACAGGAGA
+>phi1.5 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (7682..7705)
+CATTAACCCTCACTAACAGGAGA
+>phi2.5 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (8833..8856)
+TAATTACCCTCACTAAAGGGAAC
+>phi3.8 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (10602..10625)
+AATTAACACTCACTAAAGGGAGA
+>phi4.3 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (12417..12440)
+AATTAACCCTCACTAACGGGAAC
+>phi6.5 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (17159..17182)
+AATTAACCCTCACTAAAGGGAAG
+>phi9 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (19697..19720)
+TAATTACCCTCACTAAAGGGAGA
+>phi10 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (20732..20755)
+AATTAACCCTCACTAAAGGGAGA
+>phi11 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (22394..22417)
+CTTTAACCCTCACTAACAGGAGG
+>phi13 promoter, Enterobacteria phage T3, RefSeq:NC_003298, (25456..25479)
+AATTAACCCTCACTAAAGGGAGA
+>phiOR promoter, Enterobacteria phage T3, RefSeq:NC_003298, (37431..37454)
+CATTAACCCTCACTAAAGGGAGA
+>PrIIB2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(121..155)
+AATGCTTCAAAAAACAGTGATAAAATGGTTGCTG
+>PrIIB1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(376..410)
+GATGCTTTTGATGATGTAGATTATGATAAGTATG
+>PrIIA promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(2261..2297)
+CCCGCTTTAAAGATATTAGAGATAAAATTCAATCCG
+>P2.3 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(2334..2372)
+TTGATAAAGCAGTTCATCGAGAATATAGAATCATTCAA
+>P1.4-3.9 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(2428..2458)
+GTTTACTTTACCACAAGGATGTGGTATAAT
+>P3.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(3853..3883)
+GTTTACTTTCGAGCTAAATGGCGATACAAT
+>P39 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(5348..5382)
+TTAGCTTTATGATTACCGGAGTATAATATTCCCG
+>P5.3/1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(5519..5555)
+TTACTAATATTGAAATCACTGGATATAATTGGTTCG
+>P5.3/2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(5539..5571)
+TTGTCTTCAAGTGGTTTTACTAATATTGAAAT
+>P5.3/3 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(5538..5571)
+TTGTCTTCAAGTGGTTTTACTAATATTGAAATC
+>Pcef promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(6593..6630)
+ATATACATCAGTAGTTGATTATGGTACTATATCAATA
+>PmotB promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(7178..7215)
+GTTTACAAACTCTTGGGACCAGAGTATAATGGTCCCG
+>P8.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(8188..8218)
+GTTTACTTCCTCGGTTAGTTGTGGTACTAT
+>P11.5 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(11821..11851)
+GTTTACAAGTTAAAGTAAAAATGTTATAGT
+>PmodB promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(13149..13186)
+GTTTACTTTCCTTTCTAACGATGATATGATAGCTTCT
+>Pmrh.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(15251..15288)
+GTTTACTTTCCAAAATGAGTATGGTATAATAGAATTA
+>Psoc promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(15602..15633)
+TTACTTATTCAGAAAAGAAGATGTATAAATA
+>Psoc(w2) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(16161..16192)
+CATTTATTGTAAATCCATATAATGATAAATA
+>P16.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(16364..16394)
+TTGTGGATATATTTCATTTCGTATTAAATA
+>Psoc(w1) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(16364..16395)
+CTTGTGGATATATTTCATTTCGTATTAAATA
+>P56/69 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(16812..16846)
+ATTGCTTACATACTCAAATGATATAATTATTTAA
+>P16.8.REV promoter, Enterobacteria phage T4, RefSeq:NC_000866, (17058..17087)
+TTCATCTTCTGACCAAAATTTATTATAAT
+>P16.8 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(17157..17186)
+GTGATAAAATAATCTTTAGTTCATTGCAT
+>P17.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(17691..17720)
+TTAATATTTATCGCAAAACGTGTTAGTAT
+>P17.7 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(18040..18069)
+TGGAAATCAAAAGATGTTAATGATATGAT
+>P61 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(19121..19155)
+AATGCTTTTATGAATAGAGGTTAATATGAAAACA
+>P19.8 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(20079..20109)
+GTTTACTTTTGTTGGAAATTGAGATACTAT
+>Pdmd promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(20575..20612)
+GTTTACAAGCTGACAAGACTATGGTATAGTAGTCTTG
+>P40 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(23514..23541)
+TTTGATTAAAGCTTCTACTTCTAAATT
+>PuvsX promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(23751..23786)
+TTTGCTTAATAATCCATATGGTTATAATAGAAATA
+>PsegA promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(24455..24490)
+GATGCTTTCTATTCAACATGATATTTTAAATAAAA
+>P26.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(26317..26352)
+TTGCTTTTAATCTTGATGATTATAATAAGTATATA
+>P42 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(26319..26353)
+ATTGCTTTTAATCTTGATGATTATAATAAGTATA
+>P26.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(26446..26482)
+TTAACTGGTCAATTATTGGTTGGTTTATTACATTTA
+>P26.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(26555..26593)
+TGGTTTTAGTTTCAGGCGTGTTGGCTATTATTATATAC
+>Pimm.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(27043..27080)
+GTTTACAAGACTGTTCTTCCATGGTACTATACAACTA
+>P43 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(29930..29967)
+GGGGCTTCGGCCCCTTATTTGGAGTATAATATATCAA
+>P45 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(32625..32659)
+ATTGCTTTATTAAATTAGTTATAAAATTAAATCT
+>P45.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(33256..33289)
+TATGCTTTAATTTATTAGAGTATAATCTCTATG
+>P46 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(35013..35048)
+AATACTTTTTAGATTATGATGATATGATAGAATGG
+>P35.3 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(35668..35698)
+TTTTACAAATCTATCAGTACGTGTTATAGT
+>P47 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(36571..36609)
+TTAGCTTTATACGGAGTTTGATATAATGATATTTCTTG
+>Pagt.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(38681..38714)
+ATTGCTTTATAAATTTTTTGGTAAAATAAACTA
+>P55 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(40179..40213)
+ATAGGTCTTCAAATATTATGATATAATAGATCTA
+>P55' promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(40211..40238)
+ATTGATTCATCCTCTATGCTTTAAGAT
+>P40.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(41231..41261)
+GTTTACATTGATGATGATTTTGATTATAAT
+>P41.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(41676..41706)
+GTTTACAACAAGTTCAAACCGTGGTATTAT
+>P55.8 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(42804..42839)
+TTTGCATAAATGCGAAGGTTGTTATAATCGTAGTA
+>P55.9 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(43021..43057)
+TTGGCTATTCACCAGACGGAAATACAATAGAACTAA
+>PI-TevII promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(45630..45661)
+TGACATGCAGCTGTTTATCCTCGTATAAATA
+>P49.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(46439..46475)
+GATGCTTCAAAGAGGATTTGAATATAATGAATCTGA
+>P49 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(46884..46915)
+AATGTTTTACAATACTTGAAAATAATAAATA
+>P46.7 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(47422..47452)
+GTTTACACTGATGAAGAAACGGTGTATAAT
+>PnrdC.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(50936..50973)
+GTTTACTTTGCCACAAGGATGTGGTATAATGTTCTTA
+>P54.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(53913..53943)
+GTTTACAAGACCGTTCCTCTGTGGTACTAT
+>P54.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(55354..55384)
+GTTTACAAGCATAAAGCTTTATGGTACTAT
+>P57.9 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(58750..58780)
+GTTTACTTTCCGTTTGAGCTGTGGTACTAT
+>Ptk.-1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(59745..59776)
+AAAAGCTCGGTTAGTGCAAAAGTTATAAATA
+>P59.5 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(60366..60397)
+TAAAGCTGAAAATGATTTAGAAACATATTTA
+>P59.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(60500..60530)
+TTACTCGCGAACAAAAGAACGAAATATTAT
+>P59.7 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(60540..60571)
+ATAAAGAACAAGAACTCATTGATTATATAAA
+>Pvs promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(61956..61982)
+CAAGAGTTAAGGAACTTGGTTATAAT
+>P62.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(62767..62797)
+GTTTACTTTTCCTCTTGACTGTGGTATAAT
+>PdenV promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(65384..65413)
+GTTTACATCTCCTGTAGGTATGATACTAT
+>P65.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(65769..65799)
+GTTTACAACTCCTAGAATTGTGAATATATT
+>P65.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(65830..65862)
+TTGCTAATGCAGCCCGTGGTAATTCTTAATAA
+>P65.5 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(66437..66467)
+TTCACAATTACTTGAATAGACAATTACTAA
+>p65.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(66468..66498)
+GTTTACTTTCTCTTGGAATTGTGATAGTAT
+>P65.7/1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(66511..66541)
+TTTAGAACTGGCACTTGGGACGCGTATAAA
+>P65.7/2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(66577..66606)
+TTAACTTAGCTAAAAGTATATGGTATAAT
+>Pe(2) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(67010..67041)
+CTTTTAATTTTATAAATACCTTCTATAAATA
+>Pe(1) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(67023..67054)
+TAATGAACAACCTCTTTTAATTTTATAAATA
+>Pe(w) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(67239..67270)
+ACCTTCTAGAAGACCTAGGTGTATTTAAATA
+>Pe.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(67933..67961)
+AATGATTTTAAAAACTCGCTGGTATGAT
+>P69.9 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(69937..69967)
+GTTTACAATCTATTAGAAACGTGATATTAT
+>P69.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(70329..70359)
+GTTTACATAGGCTGATGATTGAGATATTAT
+>P69.8 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(70666..70696)
+GTTTACATCCTTGTTCTTCCATGGTACTAT
+>PtRNAsc1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(72592..72626)
+TATGCTTTAAGAATTATTTGTTATTATTAACTCA
+>PtRNA promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(72868..72899)
+AAGTATCATCCGTTGAAAATGGATATAAATA
+>PtRNA.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(73535..73572)
+GTTTACATAGGGTTTTAGCTGTGATACTATTACCCTA
+>P73.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(73909..73939)
+GTTTACATACTGATGAGGTAGTGATACTAT
+>P73.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(74861..74893)
+TTGATAAATTTAACTCAGGTTATGATTATTAT
+>P57A promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(74876..74909)
+TTTGCTTTAGATTATCTTGATAAATTTAACTCA
+>P57A-late promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(75004..75035)
+GCATTTAATAAGATTACTGACGTTATAAATA
+>P1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(75391..75425)
+AATGCTTCAGTTTTGTGTGTTATAATCTTAATTA
+>P74.6_bacREV promoter, Enterobacteria phage T4, RefSeq:NC_000866, (75572..75609)
+TTGACATCACGATTTCAGTTTTGCTATTATCTAAGAT
+>P53 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (77325..77356)
+AGAATATGCCATTGGATTCTCCTTATAAATA
+>P53(w) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (77344..77375)
+TCCTTATAAATAGATAATATATTTATAAACA
+>P4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(77363..77394)
+TAAAGAGCATGGGCCCTCCTGTTTATAAATA
+>P5 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (77454..77485)
+CTATGACAGATATTTTTAGAAACTATAAAGA
+>P5R promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(79343..79369)
+AACGATTATCCATGTTATAATAAATT
+>p5R' promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(79348..79375)
+GATGTAAACGATTATCCATGTTATAAT
+>P5.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (79762..79793)
+GAAACAGGTGAAACGTTAGTATCTATAAATA
+>P8 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (85775..85806)
+TTAAACATACAGAGACTATAATTAATAAATA
+>P9(a) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (86723..86754)
+TTTGAGATTCCGCCTGATGTATCTATAAATA
+>p9(b) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (87163..87194)
+AGCCCATGGGCTCCCTTTTTCTTTATAAATA
+>P10 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (87848..87879)
+GGAAGAAAAATTAAAACAGCAGAAATAAATA
+>P15 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (95300..95331)
+ATTTGACAATGATTTCATGGATTAATAAATA
+>P17 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (96116..96147)
+GTAAAACAAACTTTCACTAGTAATGTAAATA
+>P18(w) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (96876..96907)
+ATAAGCCTGAATTATTTCAAACTTATAAAGA
+>P18 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (98476..98507)
+AGTATCTCATGGTATGTCAATGGTATAAATA
+>P19(a) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (100527..100558)
+TAAAGGCCTGTTTCGGCAGGCCATATAAATA
+>P19(b) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (100586..100617)
+ATGCCCTAGGTTAAACATAGGGATATAAATA
+>P20 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (101147..101178)
+CTGCTTAAAGCAGAGAAGTCCATTATAAATA
+>P67 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (102502..102533)
+ACAGAAGATGAGTGGAATGATGAAATAAATA
+>P21 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (103109..103140)
+TCTTCTGCTTTAAATAAAGACGATATAAATA
+>P22 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (104058..104089)
+CGCAGAGGCCATGAAAAAAGCGTTATAAATA
+>P23(w) promoter, Enterobacteria phage T4, RefSeq:NC_000866, (104750..104781)
+TCGTAGAAATGGTGAAGAAATCTAATAAAGA
+>P23 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (104779..104810)
+GATGAAAGCACTATTACTGAGAGTATAAATA
+>P106.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(107252..107281)
+TTTACAAGACCAAAGTAATATGATATTAT
+>P24 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (107264..107295)
+TACTTTGGTCTTGTAAATAACTTTATAAATA
+>Panti-late promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(109112..109139)
+TTAGATTCTGTCGTCCAAGATTATAAT
+>Phoc.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (111997..112028)
+TATCTATCATAATATTTCCTCAGTATAAATA
+>Phoc.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(112034..112065)
+GTGGTACATACTATTTTCCGAGTAATAAATA
+>PuvsW promoter, Enterobacteria phage T4, RefSeq:NC_000866, (112551..112582)
+ACTTTTTGGGTCAATAATGGCGCAATAAATA
+>PuvsW.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(114686..114717)
+CATTGATATGCATATGAGAGTTGTATAAATA
+>PuvsY promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(115370..115405)
+AATGCTTCACGTTAAAACGTGGTATAATGAATCTA
+>P25(w) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(116417..116448)
+GATAAATAAAGGAGCTAAATATGTATGAATA
+>P51 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (116430..116461)
+TTAGCTCCTTTATTTATCATATTTATAAATA
+>P26(w) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(116440..116471)
+CCTTTTATTCTATTTATAAATATGATAAATA
+>P26(a) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(116449..116480)
+ATAGATGCTCCTTTTATTCTATTTATAAATA
+>P115.8 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(117145..117171)
+TTTACTTATTGAATTTAAGCTATAAT
+>Palt promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(125530..125561)
+AAAGGCCTTCGGGCCTTTAATTTTATAAATA
+>P125.9 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(127240..127273)
+TTGACTGAGCTTAATGATGAATTGATTTATAAT
+>P128.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(129889..129918)
+GTTTACTTTGGTACAGGATATGATATTAT
+>P128.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(130280..130310)
+GTTTACAGTATAGTTCCTTTGTGATAGTAT
+>P31.-1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(131172..131203)
+CTATTCCGTGTCTTTATAAGTGATATAAATA
+>Pcd promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(133011..133037)
+ACTATGATGAATTTAACTGATATAAT
+>P131.7 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(133301..133331)
+GTTTACTTTACGGTAGAGTTGTGATATTAT
+>Pcd.3 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(133771..133798)
+AAAGATTTATCGTCTTTGTGATAAAAT
+>PpseT.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(135406..135432)
+AATGATTAAACTATCAGCAGTAATAT
+>P134.4 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(136306..136336)
+GTTTACAAGTCCCTCGTGTTGTGTTATAGT
+>Panti-63 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (136852..136883)
+ATACGGACGAAGAGTAGCATCTTTATAAATA
+>PnrdBin promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(138938..138972)
+TTTGCTTGCACCTTTAATTAGTATAATATAAATA
+>PnrdB.iI promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(138938..138969)
+GCTTGCACCTTTAATTAGTATAATATAAATA
+>PnrdB promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(139877..139911)
+CGTGCTTAATCCGATGTATGGTACAATTTCTCCG
+>PnrdA promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(142723..142759)
+AACCAAAGCCGTGTCATGGTGATATAATAGCTCATA
+>P141.0 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(142825..142861)
+TTGAATTATTCAAAAAAGATTTTATACGTCGAATTA
+>PI-TevI promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(144454..144485)
+CTAAATTGTAGGACTTGCCCTTTAATAAATA
+>Ptd promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(145140..145175)
+AATGGTTGAAACGCATTGGTATAAAATAGATGAAG
+>P144.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(146845..146875)
+GTTTACAAGCATAAAGCTTTATGGTACTAT
+>P144.8_REV promoter, Enterobacteria phage T4, RefSeq:NC_000866, (146915..146944)
+TAGGGTCCCCAATTAATTAGTAATATAAT
+>P145.7 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(147900..147930)
+TTGCGAATTATGCCAGCTATGAGGTAAAGT
+>P32(late) promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(148003..148034)
+GGATGGCGAAGAGTTAAAGGTAATATAAATA
+>P32 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(148063..148091)
+ATTGCTTACGAGAATTATGTGTTATTAT
+>P147.1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(149286..149314)
+TTGCTAAATTTATTCCTTCGGGTATAAT
+>PdsbA promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(149870..149906)
+ATTGCTTCAAACATTGTGAATTACTATAATTCATAT
+>P147.7/1 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(149876..149905)
+TTGCTTCAAACATTGTGAATTACTATAAT
+>P147.7/2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(149904..149932)
+TTGATTTTGATTATATTCCTGATAATAT
+>P148.6 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(150733..150763)
+GTTTACTTTAAGATTTGGATGGTATATAAT
+>P34 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (150743..150774)
+ATCCAAATCTTAAAGTAAACAAGTATAAATA
+>P34i promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(153009..153045)
+TTTGCTTCAAGAATATTAAGTGTATAATGGTCCCAG
+>P36 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (155813..155844)
+ACCCTTCGGGTTCCCTTTTTCTTTATAAATA
+>P37 promoter, Enterobacteria phage T4, RefSeq:NC_000866, (156332..156363)
+AGAAAGGACTATGTTGATGGAGCAATAAATA
+>Pt promoter, Enterobacteria phage T4, RefSeq:NC_000866, (160172..160203)
+TAAGCGTTTATTCAAGCATTACGTATAAATA
+>P158.7 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(161181..161211)
+GTTTACAAATCAAGCGTCTGATGATATTAT
+>PmotA promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(163636..163673)
+GTTTACAACCAAAGCATACTGTGGTACTATACAACTA
+>P164.2 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(166777..166807)
+GTTTACAAGACTGTTCTTCCGTGGTACTAT
+>P164.5 promoter, Enterobacteria phage T4, RefSeq:NC_000866, complement(167056..167086)
+GTTTACATACCACAAGGACCGTGGTACTAT
+>A0(D) promoter, Enterobacteria phage T7, RefSeq:NC_001604, complement(223..259)
+TTGACTTGATGGGTCTTTAGGTGTAGGCTTTAGGTG
+>phiOL promoter, Enterobacteria phage T7, RefSeq:NC_001604, (387..410)
+TAATACAACTCACTATAAGGAGA
+>A1 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (461..498)
+TTGACTTAAAGTCTAACCTATAGGATACTTACAGCCA
+>A2 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (588..626)
+TTGACAACATGAAGTAACATGCAGTAAGATACAAATCG
+>A3 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (713..750)
+TTGACAACATGAAGTAAACACGGTACGATGTACCACA
+>B promoter, Enterobacteria phage T7, RefSeq:NC_001604, (1477..1506)
+TTTACTTATGAGGGAGTAATGTATATGCT
+>C promoter, Enterobacteria phage T7, RefSeq:NC_001604, (3077..3113)
+TTGACGCAATGTTAATGGGCTGATAGTCTTATCTTA
+>phi1.1A promoter, Enterobacteria phage T7, RefSeq:NC_001604, (5830..5853)
+CAATACGACTCACTATAGAGGGA
+>phi1.1B promoter, Enterobacteria phage T7, RefSeq:NC_001604, (5905..5928)
+TAATACGACTCACTATAGGAGAA
+>phi1.3 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (6391..6414)
+TAATACGACTCAGTATAGGGACA
+>phi1.5 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (7760..7783)
+TAATACGACTCACTAAAGGAGGT
+>phi1.6 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (7877..7900)
+TAATACGACTCACTAAAGGAGAC
+>phi2.5 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (9089..9112)
+TAATACGACTCACTATTAGGGAA
+>phi3.8 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (11162..11185)
+TAATTGAACTCACTAAAGGGAGA
+>phi4c promoter, Enterobacteria phage T7, RefSeq:NC_001604, (12653..12676)
+CAATCCGACTCACTAAAGAGAGA
+>phi4.3 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (13323..13346)
+TAATACGACTCACTAAAGGAGAC
+>phi4.7 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (13897..13920)
+CTATTCGACTCACTATAGGAGAT
+>phi6.5 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (18527..18550)
+TAATACGACTCACTATAGGGAGA
+>phi9 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (21847..21870)
+TAATACGACTCACTATAGGGAGA
+>phi10 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (22886..22909)
+TAATACGACTCACTATAGGGAGA
+>phi13 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (27256..27279)
+TAATACGACTCACTATAGGGAGA
+>phi17 promoter, Enterobacteria phage T7, RefSeq:NC_001604, (34548..34571)
+TAATACGACTCACTATAGGGAGA
+>E promoter, Enterobacteria phage T7, RefSeq:NC_001604, (36901..36929)
+TTAACGGGAGGCATTATGCTAGAATTTT
+>phiOR promoter, Enterobacteria phage T7, RefSeq:NC_001604, (39211..39234)
+TAATACGACTCACTATAGGGAGA
+>pL promoter, Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, complement(9337..9366)
+TTGACCAAGTGAAGTACATATCGTACTAT
+>pRM promoter, Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, complement(11565..11594)
+TGGATGGTTCCAGTACAGAGCGTAATAAT
+>pR promoter, Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, (11614..11643)
+TTGTATTTGAGAAGTACATATTGTATTTT
+>pRE promoter, Enterobacteria phage VT2-Sakai, RefSeq:NC_000902, complement(12017..12050)
+TTGCTGTAACTTGTTTGTTCCATTTCTTAAGAT
+>pL promoter, Escherichia Stx1 converting phage, RefSeq:NC_004913, complement(41226..41254)
+TGACCAAGTGAAGTACATATCGTACTAT
+>pRM promoter, Escherichia Stx1 converting phage, RefSeq:NC_004913, complement(43444..43483)
+TGGATGGTTCCAGTACAGAGCGTAATAATAAGGACATGA
+>pR promoter, Escherichia Stx1 converting phage, RefSeq:NC_004913, (43503..43531)
+TTGTATTTGAGAAGTACATATTGTATTT
+>pAQ promoter, Escherichia Stx1 converting phage, RefSeq:NC_004913, (50961..50993)
+TTGCACATGGCACTATTAGTTTTCTAAATATT
+>A1 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (251..276)
+TTGACACTGAGACCATCCATAGGCT
+>A2 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (390..417)
+TTTACAACCATCGAGGATCAGTGTCTA
+>A3 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (598..624)
+TTGACAAGATGATGGAACGCTGTAGA
+>phi1 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (938..961)
+TAAAAACCCTCACTGTGGCTGCA
+>A4 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (957..984)
+TGCACACACTATGGGGGCTTTTATCTT
+>phi2 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (4132..4155)
+TAATGCAAGTCACTATCGCCGCT
+>phi4 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (5738..5761)
+TAAAAACCCTCACTTTGGCTGCA
+>phi5 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (7215..7238)
+TAAAAACCCTCACTGTGGCTGCA
+>phi6 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (8856..8879)
+TAAAAACCCTCACTGTGGCTCAC
+>phi10 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (16001..16024)
+TAAAAACCCTCACTATGGCCATA
+>phi12 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (18946..18969)
+TTAAAACCCTCACTATGGCTGCA
+>phi13 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (19904..19927)
+TAAAAACCCTCACTATGGCTGCA
+>phi15 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (24145..24168)
+CAAAAACCCTCACTATGGCACCC
+>phi16 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (31614..31637)
+TAAAACCCCTCACTATGGCACCC
+>phi17 promoter, Pseudomonad phage gh-1, RefSeq:NC_004665, (36633..36656)
+TAAAAACCCTCACTATGGCCCAG
+>Promoter1 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (902..931)
+TTGACACGTGGGCGGCAGGTCTGTAGAGT
+>Promoter2 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (981..1010)
+TTGACACACTACCAAGGCATCGGTAGAGT
+>Promoter3 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (1135..1164)
+CTGACACGGTGCAGGGCACGCGGTACAGT
+>Promoter4 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (1236..1265)
+TTGACAAGACAAGCGCAAGTCTCTAACAT
+>Promoter5 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (6313..6340)
+CGACTGGGGCCTACTCCGGGGTCAAAT
+>Promoter6 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (13985..14012)
+CGACCCTTCCCTACTCCGGCCTTAAAT
+>Promoter7 promoter, Pseudomonas phage phiKMV, RefSeq:NC_005045, (24127..24154)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>pX promoter, Salmonella phage HK620, RefSeq:NC_002730, complement(1243..1273)
+TTGACAGCCGCACTCCATGACGGGTAAAAA
+>pI promoter, Salmonella phage HK620, RefSeq:NC_002730, complement(1674..1701)
+TTGCCTGATTTGCAGGTTCGATTCCCT
+>pL promoter, Salmonella phage HK620, RefSeq:NC_002730, complement(7839..7868)
+TTTACACAATAAAATACCTACAGTATTCT
+>pR promoter, Salmonella phage HK620, RefSeq:NC_002730, (9163..9192)
+TTGATTGCTTTGAATACCTGTAGTATTCT
+>pRE promoter, Salmonella phage HK620, RefSeq:NC_002730, complement(9514..9547)
+TTGCGAGTACTTGTAAGTTGCATATGTAAGTAT
+>pR' promoter, Salmonella phage HK620, RefSeq:NC_002730, (15559..15587)
+TTGACTTTTTGAATAAAGTTGGGTAAAT
+>PR1 promoter, Staphylococcus phage P68, RefSeq:NC_004679, (279..309)
+TTGACAAAACTTTTAAACGTTTGCTATACT
+>PR2 promoter, Staphylococcus phage P68, RefSeq:NC_004679, (820..850)
+TTTACGTTTTTTAGAAAGGAGTGATATAAT
+>PR3 promoter, Staphylococcus phage P68, RefSeq:NC_004679, (2716..2746)
+ATGAAGATGTGAGGTATAACTTTTTATATT
+>PL1 promoter, Staphylococcus phage P68, RefSeq:NC_004679, complement(8200..8230)
+TTTATTTGTATTAATGTTCGTTGATATTAT
+>PL2 promoter, Staphylococcus phage P68, RefSeq:NC_004679, complement(10356..10389)
+GAGTTAAAACGATACAATTAAAAGGGGTATTAA
+>PL3 promoter, Staphylococcus phage P68, RefSeq:NC_004679, complement(11633..11666)
+TTCCTTGGGGGGTGTTCTCATAATGGGTATTTT
+>PL4 promoter, Staphylococcus phage P68, RefSeq:NC_004679, complement(13170..13203)
+ACGTGATAACTTTAAAGAGCCTGAGGGTATTTG
+>PL5 promoter, Staphylococcus phage P68, RefSeq:NC_004679, complement(17969..17999)
+TTTACTTATTTAAATATTCTATGATATAAT
+>PE1 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (221..257)
+TTGACAATCATTTTAGTAAATGCTATAATGGTTATA
+>PE2 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (315..351)
+TTGACAAGCATTTTGAGAAATGCTATAATAGTATCA
+>PE3 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (972..1007)
+TTGCTTTCTATTTGAAAATGTGGTAAACTTAAATA
+>PL1 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (4698..4740)
+TTCATGGCTTGAAAAGTCAGTTGGTTAGAATGACTCGCACCA
+>PL2 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (4797..4835)
+TTACAGGTTTATCATATCATACTTGCTTTATTTTGTCA
+>PL3 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (6493..6535)
+TTGAGGAAGCCTAAAGGCTGACCAAGGGCGGGCAATAGCCCG
+>PL4 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (8164..8193)
+TTCAGATATTTAATATATGTGATAAGCTG
+>PL5 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (11535..11569)
+AGGACAAGAATAAGGGAGGGTTTCAGCCCTCCTA
+>PL6 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (13077..13109)
+ATGGCAGAAGCAACAGAAACGCTAAAAGCACT
+>PL7 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (14895..14936)
+AAAACAACCCGAATTTTTAAAAGTATGATATAATGAAATAG
+>PL8 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (15864..15906)
+TTGACCGCTTATTGTTTAGAAGTGGAACAGGTGGAAGACGGG
+>PL9 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (15944..15982)
+TTTACGGAGTTTGTACTTAAAAAATATGTTTATTTATG
+>PPR promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, (18528..18566)
+TTAAGCGCTCATTTTTAAAATAGTTCTCATGGACTTCT
+>PE5 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, complement(18992..19028)
+TTGACAAGCATTTTGAGAAATGCTATAATGGTATCA
+>PE4 promoter, Streptococcus phage Cp-1, RefSeq:NC_001825, complement(19086..19122)
+TTGACAATCATTTTATAAAATGATACAATGTATATA
+>lp2 promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (12974..12995)
+GAGGGTTGCCGACTCCCTTCG
+>Ep_k promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (18485..18506)
+TCAGGTTGCCGACTCCCTTCA
+>cp1 promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (19216..19241)
+CTTGGAGCGTGGGCTAGGGTGAGCG
+>cp2 promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (19776..19804)
+TCACGTGAGTAGTGTAGAGTCGGCTACG
+>Ep_a promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (21757..21778)
+CCGGGTTGCCCACTGCCTTCA
+>Ep_b promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (22664..22685)
+GCGGGTTGCCGACTCCCTTAC
+>Ep_c promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (23029..23050)
+CCGGGTTGCCGACGTCCTTCA
+>Ep_d promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (25051..25072)
+CCGGGTTGCCGACTCCCTTAC
+>Ep_e promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (27581..27602)
+CCGGGTTGCCGACTCCCTTAC
+>ap1 promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (29751..29778)
+GAGTAGTCACCTGTTACGTTCGTTGAG
+>Ep_f promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (29904..29925)
+CCGGGTTGCCGACTTCCTTAC
+>Ep_h promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (31187..31208)
+CCGGGTTGCCGACTTCCTTAC
+>Ep_j promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (36220..36241)
+CCGGGTTGCCGACTCCCTTAC
+>Pint promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (38134..38155)
+CTGGCTCGCCCACTGCCTTCA
+>lp1 promoter, Streptomyces phage phiC31, RefSeq:NC_001978, (40564..40585)
+TCAGGTTGCCGACAACCTTCA
+>pL promoter, Stx2 converting phage I, RefSeq:NC_003525, complement(43024..43052)
+TAGAAAATCTGGCATGAAATCATCATTG
+>pRM promoter, Stx2 converting phage I, RefSeq:NC_003525, complement(44493..44524)
+TTCAGAATGAAAAAGTGCGCAAAGAATTCGC
+>pR promoter, Stx2 converting phage I, RefSeq:NC_003525, (44547..44575)
+TTGCAAAAACTTTCAGTTCAACCATAAT
+>pL promoter, Stx2 converting phage II, RefSeq:NC_004914, complement(41226..41254)
+TGACCAAGTGAAGTACATATCGTACTAT
+>pRM promoter, Stx2 converting phage II, RefSeq:NC_004914, complement(43444..43483)
+TGGATGGTTCCAGTACAGAGCGTAATAATAAGGACATGA
+>pR promoter, Stx2 converting phage II, RefSeq:NC_004914, (43503..43531)
+TTGTATTTGAGAAGTACATATTGTATTT
+>phiOL promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (374..397)
+CATTAACCCTCACTAAAGGGATA
+>phi1.05 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (5978..6001)
+CATTAACCCTCACTAACGGGAGA
+>phi1.1 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (6320..6343)
+AGTTAACCCTCACTAACGGGAGA
+>phi1.3 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (6834..6857)
+TAATAACCCTCACTAACAGGAGA
+>phi1.5 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (8360..8383)
+CATTAACCCTCACTAACAGGAGA
+>phi2.5 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (9563..9586)
+TAATTACCCTCACTAAAGGGAAC
+>phi3.8 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (11336..11359)
+AATTAACACTCACTAAAGGGAGA
+>phi4.3 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (13153..13176)
+AATTAACCCTCACTAACGGGAAC
+>phi6.5 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (17924..17947)
+TATTAACCCTCACTAAAGGGAAG
+>phi9 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (20463..20486)
+TAATAACCCTCACTAAAGGGAGA
+>phi10 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (21498..21521)
+AATTAACCCTCACTAAAGGGAGA
+>phi11 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (23160..23183)
+CTTTAACCCTCACTAACAGGAGG
+>phi13 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (26222..26245)
+AATTAACCCTCACTAAAGGGAGA
+>phi17 promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (33895..33918)
+AATAAACCCTCACTAAAGGGAGA
+>phiOR promoter, Yersinia phage phiYeO3-12, RefSeq:NC_001271, (38796..38819)
+CATTAACCCTCACTAAAGGGAGA
+>A1 promoter, Klebsiella phage KP34, RefSeq:NC_013649, (930..959)
+TTGACACCGCGAAGAACATAAGCTAGATT
+>P1 promoter, Klebsiella phage KP34, RefSeq:NC_013649, (1496..1528)
+AGCCTATAGCATCCTACGGGGTGCTATGTGAA
+>P2 promoter, Klebsiella phage KP34, RefSeq:NC_013649, (2517..2549)
+AGCCTATAGCGTCCTATGGGGCGCTATGTGAA
+>A1 promoter, Klebsiella phage F19, RefSeq:NC_023567, (967..996)
+TTGACACCGCGAAGGACATAAGCTAGATT
+>A2 promoter, Klebsiella phage F19, RefSeq:NC_023567, (1050..1079)
+TTGACAAGTTCCGATTCACTGAGTAACTT
+>A3 promoter, Klebsiella phage F19, RefSeq:NC_023567, (1186..1220)
+CTGAGACGACAAACGGCGGGTGCGCTTAGATGAT
+>P1 promoter, Klebsiella phage F19, RefSeq:NC_023567, (1804..1836)
+AGCCTATAGCATCCTATGGGGTGCTATGTGAA
+>P2 promoter, Klebsiella phage F19, RefSeq:NC_023567, (2580..2612)
+AGCCTATAGCGTCCGACTGGGCGCTATGTGAA
+>A1 promoter, Klebsiella phage SU503, RefSeq:NC_028816, (1039..1068)
+TTGACACCGCGAAGGACATAAGCTAGATT
+>A2 promoter, Klebsiella phage SU503, RefSeq:NC_028816, (1168..1196)
+TTAAAATAAACGCTTGACAAGTTATGAT
+>A3 promoter, Klebsiella phage SU503, RefSeq:NC_028816, (1181..1210)
+TTGACAAGTTATGATTCACTGAGTAACTT
+>P1 promoter, Klebsiella phage SU503, RefSeq:NC_028816, (2019..2051)
+AGCCTATAGCATCCTACGGGGTGCTATGTGAA
+>P2 promoter, Klebsiella phage SU503, RefSeq:NC_028816, (3201..3233)
+AGCCTATAGCGTCCTACGGGGCGCTATGTGAA
+>A1 promoter, Klebsiella phage SU552A, RefSeq:NC_028870, (682..710)
+TTGCCCTGCTTACCATTTTTGCTATAAG
+>A2 promoter, Klebsiella phage SU552A, RefSeq:NC_028870, (873..902)
+TTGACACCGCGAAGAACATAAGCTAGATT
+>A3 promoter, Klebsiella phage SU552A, RefSeq:NC_028870, (942..971)
+TTGACAAGTTCGGATTCACTGAGTAACTT
+>P1 promoter, Klebsiella phage SU552A, RefSeq:NC_028870, (1458..1490)
+AGCCTATAGCATCCTACGGGGTGCTATGTGAA
+>P2 promoter, Klebsiella phage SU552A, RefSeq:NC_028870, (2234..2266)
+AGCCTATAGCGTCCTACGGGGCGCTATGTGAA
+>A1 promoter, Klebsiella phage K244, RefSeq:NC_025418, (952..981)
+TTGACACCGCGAAGGACATAAGCTAGATT
+>A2 promoter, Klebsiella phage K244, RefSeq:NC_025418, (1021..1050)
+TTGACAAGTTCTGATTCACTGAGTAACTT
+>A3 promoter, Klebsiella phage K244, RefSeq:NC_025418, (1250..1280)
+CTCACAGGTTAGCAGTCCTGAGCCGATAAG
+>P1 promoter, Klebsiella phage K244, RefSeq:NC_025418, (1761..1793)
+AGCCTATAGCATCCTATGGGGTGCTATGTGAA
+>P2 promoter, Klebsiella phage K244, RefSeq:NC_025418, (2627..2659)
+AGCCTATAGCGTCCTACGGGGCGCTATGTGAA
+>Porf_36 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (13373..13402)
+TTGCATCACTCGTAATTATGAAGTATAAT
+>Porf_41 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (15767..15796)
+TTGACAACAGTTGGCTCCTTTGCTATACT
+>Porf_44 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (17524..17552)
+TTGCTTTCTTTCTTTCGTGTGGTATACT
+>Porf_83 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (39078..39107)
+TTGACACGAGGCAGCAAGAGTGTTACAAT
+>Porf_166 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (93501..93530)
+TTGATTTTGAGCTACATAATTGATATAAT
+>Porf_181 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (100675..100704)
+TTGACATGGCAGTGAGTATCATATATCAT
+>Porf_189 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (106902..106931)
+TTGACAGTACGATAAAAAAGTGCTACATT
+>Porf_360 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (262789..262818)
+TTGACAAAATCAACTCCATCCCTGATAAT
+>Porf_395 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (281087..281116)
+TTGGCAGGAGATTAATATTCCTGTACAAT
+>Porf_436 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (296159..296188)
+TTGACTTGCGTCGGTTGACCTGATAGAAT
+>Porf_491 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (319311..319340)
+TTGACAGTGGCATCCTCTCATGGCAAAAT
+>Porf_497 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (323293..323322)
+TTGACAAGACGGCATTTTTTGTTTATAAT
+>Porf_503 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (326295..326324)
+TTGACTCAACGTGGGTTAACTGGTATACT
+>Porf_510 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (329133..329162)
+TTGCAATCAGCGAACGCATGTGATATATT
+>Porf_524 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (336873..336902)
+TTGACTTGCTTCAGCAAGGCGAGTACACT
+>Porf_525 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (337760..337789)
+TTGACGTGGCACATTTTTTGTGCCATAAT
+>Porf_538 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (345732..345761)
+TTGACACGATGTTAAATCTTTGATATAAT
+>Porf_546 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (349138..349167)
+TTGACTTAGGCTTTCGAACTCCGTATAAT
+>Porf_66 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (29538..29567)
+TGAAACAGAATAATTTTTTATGGTATAAT
+>Porf_113 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (54896..54925)
+TGAAACGTAAGGAATTTTTCTGCTATAAT
+>Porf_193 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (108831..108860)
+TGAAACAGCTTTAAAAATTATGGTATAGT
+>Porf_218 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (127474..127503)
+TGAAACGTACCAAAATTTTATGGTATAAT
+>Porf_235 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (145857..145886)
+TGGAACGACCTAAAAAAATGTGCTATAAT
+>Porf_244 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (168993..169022)
+TGGAACGTTTTTTAAAATTGTGGTATAAT
+>Porf_258 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (184599..184628)
+TGAAACGTATACATTTATTATGGTATAAT
+>Porf_262 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (187471..187500)
+TGAAACGAAAATAAAACGTATGATATAAT
+>Porf_265 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (191482..191511)
+TGAAACGGGTACATTTTTTATGATATAAT
+>Porf_272 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (195586..195615)
+TGAAACTGCACATAAAAATGTGGTATAAT
+>Porf_282 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (206161..206190)
+TGGAATGAGTTAAATTTTTGTGATATAAT
+>Porf_290 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (211051..211080)
+TGGAATGCATTAAAAAAATGTGGTATAAT
+>Porf_300 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (217525..217554)
+TGAAACAATAAAAAAACATGTGCTATAAT
+>Porf_307 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (224014..224043)
+TGAAACGCCAAAATAAAATATGGTATAAT
+>Porf_312 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (226885..226914)
+TGAAACAGCTTGGAATATTATGATATAAT
+>Porf_324 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (236751..236780)
+TGAAACAAAGAAACAAATTATGCTATAAT
+>Porf_329 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (243481..243510)
+TGAAATGGTAAAAAAAATTATGGTATAAT
+>Porf_418 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (289730..289759)
+TGAAACGGCGATAAAAACTGTGGTATAAT
+>Porf_112 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(54775..54812)
+GATATTAATACTAAATCGTGCAAGTACTGGATAAATA
+>Porf_165 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (93106..93143)
+GTATGGATCAAGCAGGTGTTGACCTATTGAATGAATA
+>Porf_169 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (95221..95258)
+TGACTACAATCCAAAGTTTATTTTCCACTGCTAAATA
+>Porf_201 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (111883..111920)
+AGAACTGTACAAAGATTTAAAGATGAACCCCTAAATA
+>Porf_204 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (113713..113750)
+TAGTTTACATACATAAGATTTAATCCTCTAATAAATA
+>Porf_205 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (116484..116521)
+CTACAAAGGTGTTCCAGAGTATAAAAGTTTATAAATA
+>Porf_206 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (117257..117294)
+GCCCTGGACTTGTCTAGGGCTTTTTTATTGCTAAATA
+>Porf_210 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (120197..120234)
+GAAATGAGCTACTAGCTTCTCTTAAACGAGATAAATA
+>Porf_213 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (122763..122800)
+TCTGGACAGCAAAAGGAAGTTGCACAGATTCTAAATT
+>Porf_224 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(132564..132601)
+ATGTTGGCCTTTTGTTTTTTGTAGTACTGAATAAATA
+>Porf_226 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(137992..138029)
+TATAATCATGTCTCAAATTGTCTAGAGATAATAAATA
+>Porf_227 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(138976..139013)
+AGATACTTATCTCCCTTTTTTCATTGTGATATAAATA
+>Porf_228 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(140201..140238)
+TTTATAGTACCGTCATTGCAAATTTAGAGGATAAATA
+>Porf_229 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (140203..140240)
+TTTATCCTCTAAATTTGCAATGACGGTACTATAAATA
+>Porf_234 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(145847..145884)
+TATAGCACATTTTTTTAGGTCGTTCCAAAAATAAATA
+>Porf_236 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(158312..158349)
+AGGGCATCTTCGGATGCCCTTTATTCTTGCATAAATA
+>Porf_237 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(161851..161888)
+AAGGCATCCTCGTGATGCCTTTTCTTTTGGATAAATA
+>Porf_239 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(162816..162853)
+AGTAATGGCTCGTCGTGTAGAGTCATGCCAATAAATA
+>Porf_243 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(168982..169019)
+ATACCACAATTTTAAAAAACGTTCCATATTATAAATA
+>Porf_250 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(176230..176267)
+AGAGCCTATTCCTGCCATGTGATTTTCCTTATAAATA
+>Porf_251 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (176167..176204)
+AGGGTTCATCTTATTCATATCGACTCCATAATAAATA
+>Porf_256 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (182025..182062)
+AAGAATTTAAAAGCTTAATAAAATAATTTTATAAATA
+>Porf_260 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (185373..185410)
+GACGATTTAGAAGAAGGATTGCTCTAAATCATAAATA
+>Porf_271 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(195504..195541)
+TACGTTATTAATACTAACGAAAAGGATTTGATAAATA
+>Porf_276 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (199488..199525)
+ACTATCTATATTGGTATCTTACAATCGCTAATAAATA
+>Porf_289 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (210000..210037)
+ATAAGTTTTGTATTCATTCATAGGACTTCCATAAATA
+>Porf_298 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (216465..216502)
+TAAACTTCTTGGAAGAAGAAGGATTCTTAGCTAAATA
+>Porf_302 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (218787..218824)
+TTGCTGAAGTTAAAGCTCAGAGCGAAAGTACTAAATA
+>Porf_320 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (231599..231636)
+TTTAAATTTTTAAACTCCAAAGTTATAGAGATAAATA
+>Porf_496 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(323200..323237)
+GAAAATGTCAAGAAAAACAGGTCATATAAAATAAATA
+>Porf_534 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, (342992..343029)
+TTGATGAATTGTTAATGATTTGTATGAATCATAAATA
+>Porf_537 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(345723..345760)
+TTATATCAAAGATTTAACATCGTGTCAAGCCTAAATA
+>Porf_551 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(353125..353162)
+CATATGATACAGGTTGGACAGTAAACGGAACTAAATT
+>Porf_552 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(353981..354018)
+ACTTAGGTTGGGCTTTTTCTGTTTTTGTAAGTAAATA
+>Porf_553 promoter, Enterobacteria phage vB_PcaM_CBB, RefSeq:KU574722, complement(354733..354770)
+ATAGTAGATATTTATATAGTTATAACAATGGTAAATA
+>A1 promoter, Klebsiella phage K11, RefSeq:NC_011043, (580..609)
+TTGACATTCAGATTCCTTTATGAGACATT
+>A2 promoter, Klebsiella phage K11, RefSeq:NC_011043, (714..743)
+TTGACTCAACGATGAACAAGTAGTAAGAT
+>phiOL promoter, Klebsiella phage K11, RefSeq:NC_011043, (478..501)
+AATTAGGACACACTATAGGGAGA
+>phi1.05 promoter, Klebsiella phage K11, RefSeq:NC_011043, (5780..5803)
+AATTAGGGCACACTATAGGGAAC
+>phi1.1 promoter, Klebsiella phage K11, RefSeq:NC_011043, (6427..6450)
+AATTAGGACCCACTATCAGGAAC
+>phi1.3 promoter, Klebsiella phage K11, RefSeq:NC_011043, (6952..6975)
+AATTAGGACACACTATAGGCAGA
+>phi1.6 promoter, Klebsiella phage K11, RefSeq:NC_011043, (8157..8180)
+AATTAGGACCCACTATAGGAGAC
+>phi2.5 promoter, Klebsiella phage K11, RefSeq:NC_011043, (9238..9261)
+CATTAGGACACACTATAGGGACA
+>phi promoter, Klebsiella phage K11, RefSeq:NC_011043, (10907..10930)
+CATTAGGGCACACTACAGGGAGA
+>phi6.5 promoter, Klebsiella phage K11, RefSeq:NC_011043, (17792..17815)
+AATTAGGACCCACTATAGGGAAG
+>phi9 promoter, Klebsiella phage K11, RefSeq:NC_011043, (20223..20246)
+AATTAGGGCACACTATAGGGAGA
+>phi10 promoter, Klebsiella phage K11, RefSeq:NC_011043, (21247..21270)
+AATTAGGGCACACTATAGGGAGA
+>phi13 promoter, Klebsiella phage K11, RefSeq:NC_011043, (25853..25876)
+AATTAGGGCACACTATAGGGAGA
+>phi17 promoter, Klebsiella phage K11, RefSeq:NC_011043, (33157..33180)
+AATTAGGACACACTATAGGGAGA
+>phiOR promoter, Klebsiella phage K11, RefSeq:NC_011043, (40502..40525)
+AATTAGGACCCACTATAGGGAGA
+>p1 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (551..580)
+TTGACAACTTGAAGTAACAACGATAAGAT
+>p2 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (5695..5718)
+CATATTTGTGGCATTATTAGGGA
+>p3 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (7582..7605)
+CATATTTGTGGCACTATAGGGGA
+>p4 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (8993..9016)
+TACATTTGTGGCAATATAGAGGA
+>p5 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (10725..10748)
+CATATTTGTGGCACTATAGGGAA
+>p6 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (17370..17393)
+TACATTTGTGGCATTATAGGGGA
+>p7 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (19861..19884)
+TATATTTGTGGCATTATAGGGAG
+>p8 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (20913..20936)
+TATATTTGTGGCATTATAGGGAG
+>p9 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (25382..25405)
+ACTTTTTGTGGCATTATAGGGAG
+>p10 promoter, Enterobacteria phage MmP1, RefSeq:NC_011085, (32581..32604)
+ACATTTTGTGGCATTATAGGGAG
+>A0 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, complement(218..247)
+TTGACTCATGGTGTCTTTAGGTGTAGGCT
+>A1 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (464..490)
+TTGACTTTAAGTCTAACCTATAGGAT
+>A2 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (589..619)
+TTGACAACATGAAGTAACATGCAGTAAGAT
+>A3 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (694..723)
+TTGACAACATGAAGTAAACACGGTACGAT
+>C promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (1305..1340)
+TTGACGCAATGCTAATGGGCTGATAGTCTTATCTT
+>phiOL promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (356..379)
+TAATACGACTCACTATAGAGAGA
+>phi1.1A promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (4058..4081)
+TAATACGACTCACTATAGAGGGA
+>phi1.1B promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (4133..4156)
+TAATACGACTCACTATAGGAGAA
+>phi1.3 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (4622..4645)
+TAATACGACTCAGTATAGGGACA
+>phi1.5 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (5766..5789)
+TAATACGACTCACTAAAGGAGGT
+>phi1.6 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (5883..5906)
+TAATACGACTCACTAAAGGAGAC
+>phi2.5 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (7149..7172)
+TAATACGACTCACTATTAGGGAA
+>phi3.8 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (9255..9278)
+TAATTGAACTCACTAAAGGGAGA
+>phi4c promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (10746..10769)
+CAATCCGACTCACTAAAGAGAGA
+>phi4.3 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (11376..11399)
+CAATACGACTCACTAAAGGAGAC
+>phi4.7 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (11949..11972)
+CTATTCGACTCACTATAGGAGAT
+>phi6.5 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (16212..16235)
+TAATACGACTCACTATAGGGAGA
+>phi9 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (19471..19494)
+TAATACGACTCACTATAGGGAGA
+>phi10 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (20501..20524)
+TAATACGACTCACTATAGGGAGA
+>phi13 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (24873..24896)
+TAATACGACTCACTATAGGGAGA
+>phi17 promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (32165..32188)
+TAATACGACTCACTATAGGGAGA
+>phiOR promoter, Yersinia phage phiA1122, RefSeq:NC_004777, (36841..36864)
+TAATACGACTCAGTATAGGGAGA
+>A1 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (459..488)
+TTGACTCTGAGAAACAGCTATGAGACTAT
+>A2 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (594..623)
+TTGACTCAACGAAAGCAATAACGTAGTAT
+>A3 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (684..714)
+TTGACAAGCAGTAACGATAAGATGTAAGAT
+>A4 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (833..862)
+TTGACAGTCTCCTTTAAAAACTGTAAGCT
+>phiOL promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (352..375)
+TTATACGACTCACTATTGAGAAT
+>phi1.05 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (5644..5667)
+TAATACGACTCACTATTGGGAGA
+>phi1.1 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (6269..6292)
+CAATACGACTCACTAATGGGAAA
+>phi1.3 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (6795..6818)
+TAATACGACTCACTAATGCGAGA
+>phi1.5 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (8019..8042)
+CTATTAGACTCACTATGGAGGAA
+>phi1.6 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (8127..8150)
+TAATACGACTCACCTATGGAGGA
+>phi2.5 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (9068..9091)
+TAATAGGACTCACTAATGGGAGA
+>phi promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (10827..10850)
+TAATAGAACTCACTATGGGAGAG
+>phi4.3 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (12790..12813)
+AAATAGAACTCACTAATGGGACA
+>phi4.7 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (13624..13647)
+CTATTCAACTCACTAATGGGAGA
+>phi6.5 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (18157..18180)
+TAATACGACTCACTATTGAGAGG
+>phi9 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (20747..20770)
+TAATACGACTCACTAATGGGAGA
+>phi10 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (21739..21762)
+TAATACGACTCACTATTGGGAGA
+>phi13 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (26216..26239)
+CAATACGACTCACTATTGGGAAG
+>phi17 promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (33555..33578)
+CAATACGACTCACTATTGGGAAG
+>phiOR promoter, Enterobacteria phage BA14, RefSeq:NC_011040, (39072..39095)
+TAATACGACTCACTATTGGGAAG
+>Porf017 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (10656..10685)
+TTGACATATGTTAGCCCCGTCTGTATACT
+>Porf018 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (11182..11211)
+TTGACAAAATGGTTAGAGTACTTTATAAT
+>Porf018A promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (11574..11603)
+TTGACAAAATGGTTAGAGTACTTTATAAT
+>Porf024 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (13258..13287)
+TTGACACAGACAAATAAAGCAGGTATAGT
+>Porf034 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (17535..17564)
+TTGACAGCGGTTGACTCCTTTAGTATAAT
+>Porf039 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (19841..19870)
+TAGACAAAAACGATTTAGTACTTTATAAT
+>Porf080 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (41938..41967)
+TTGACAAAATATAAATGTGATGCTATATT
+>Porf112 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (58402..58431)
+TTGACACGAAAACAATAAGCTGCTATACT
+>Porf171 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (102412..102441)
+TTGACATAGTAGCAATGAGCCGGTATAAT
+>Porf332 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (252532..252561)
+TTGACACACAAGCAGTTCTGTAGTATTAT
+>Porf338 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (256997..257026)
+TTGACACGCAATGGCTTAGCCTGTATCAT
+>Porf368 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (275626..275655)
+TTGACATCCCATGACAGTGCGTGTAGAAT
+>Porf423 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (300496..300525)
+TTGACAACTGCCAAACACCCCGCTATAAT
+>Porf454 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (317238..317267)
+TTGACATGAAATGATTTATCTGCTATGAT
+>Porf476 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (327324..327353)
+TTGACAGAGAGCAAAAATTTTGATACAAT
+>Porf481 promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (329874..329903)
+TTGACACGCCTCGTGTTAACTGATATACT
+>Porf487A promoter, Cronobacter phage GAP32, RefSeq:NC_019401, (332867..332896)
+TTGACAGCCACTTCGCTAGATAGTAAAAT
+>A1 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (779..808)
+TTGACAGGGTAGGAGTGTGTCTGTAGAGT
+>A2 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (857..886)
+TTGACACACTGCCAGGGTATCGGTAGAGT
+>A3 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (1009..1037)
+TTGACAAGGTAGTAAGATGCGGTAAGAT
+>A4 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (1111..1140)
+TTGACACTGCAAGGCTCAGTCGGTAAGAT
+>A5 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (1260..1289)
+TTGACACGACAAGGCCAAGTCGATAACAT
+>P1 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (3256..3283)
+CGACCATCGCCTACTCCGGGGCCATCG
+>P2 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (6655..6682)
+CGACCAGGGCCTACTCCGGGGTCAAAT
+>P3 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (14565..14592)
+CGACCCTTCCCTACTCCGGCCTTAAAT
+>P4 promoter, Pseudomonas phage LKD16, RefSeq:NC_009935, (24720..24747)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>A1 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (479..507)
+TTGAATATAAGTACCACTAGGTTATATA
+>A2 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (518..547)
+TTGACGGGGCTTCAGCAGGTCTGTAGAGT
+>A3 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (691..719)
+TTGACAAGCCAAGCGGATGCTGTAAGAT
+>A4 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (1175..1204)
+TTGACAAGCGAACGCCCAGTCTGTACGAT
+>P1 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (2760..2787)
+CGTGCCGGCTGCACTCGCGGCTCGAAA
+>P2 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (3611..3638)
+CGTAACCGCTGCACTCGCAGCCCGAAA
+>P3 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (6929..6956)
+CGTAACCGCTGCACTCGCAGCTCAATT
+>P4 promoter, Pseudomonas phage LKA1, RefSeq:NC_009936, (15014..15041)
+CAGTACCGCTGGACGCTCGGCATCCTC
+>A1 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (93..122)
+TTGACAAAGCGATCCCTGTGATCTATTAC
+>A2 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (196..224)
+TTGACACACTCAAAGGAGTCTGTAGAAT
+>A3 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (357..385)
+TTGACACTGAGTCACAACGCTGTAGAAT
+>A4 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (8550..8578)
+TTGACATGCCCGCAAAGACTGTGCTAAT
+>A5 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, complement(39063..39092)
+TTGACAGCCACCCTTAAGGCACTCATAAT
+>P1 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (149..172)
+TATAAACCCTCACCTAAACAGAG
+>P2 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (3690..3713)
+TTAAAACCCTCACCCAAACAGGA
+>P3 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (6465..6488)
+TAAAACCCCTCACCAAAACAGGG
+>P4 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (8647..8670)
+TAAAAACCCTCACCAAAACAGGG
+>P5 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (9893..9916)
+TAAAAACCCTCACCAAAACAGGG
+>P6 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (11572..11595)
+TAAAAACCCTCACCAAAACGGGG
+>P7 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (14337..14360)
+CAAATCCCCTCACCTAAACCGGA
+>P8 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (18430..18453)
+TAATAACCCTCACCCAAACAGGG
+>P9 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (20998..21021)
+TAAAAACCCTCACCAAAACAGGG
+>P10 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (21988..22011)
+TAAAAACCCTCACCTAAACAGGG
+>P11 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (26705..26728)
+TAAAAACACTCACCACAACAGGG
+>P12 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (33961..33984)
+TAAAACCCCTCACCTAAACAGGG
+>P13 promoter, Pseudomonas phage Pf-10, RefSeq:KP025626, (38379..38402)
+TAAAAACCCTCACCTAAAGAGGG
+>A1 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (904..933)
+TTGACACGTGGGTAGTAGGTCTGTAGAGT
+>A2 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (984..1013)
+TTGACACCCTGCCAGGGCATCGGTAGAGT
+>A3 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (1138..1167)
+TTGACACGGTGCAGGACACGCGGTACAGT
+>A4 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (1239..1268)
+TTGACAAGACAAGCGCAAGTCTCTAACAT
+>P1 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (6693..6720)
+CGACCAGGGCCTACTCCGGGGTCAAAT
+>P2 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (14606..14633)
+CGACCATTCCCTACTCCGGCCTTAAAT
+>P3 promoter, Pseudomonas phage PPA-ABTNL, RefSeq:NC_027375, (24788..24815)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>A1 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (912..941)
+TTGACACGTGGGTAGTAGGTCTGTAGAGT
+>A2 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (1145..1174)
+TTGACACGGTGCAGGACACGCGGTACAGT
+>A3 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (1247..1276)
+TTGACAAGACAAGCGCAAGTCTCTAACAT
+>P1 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (3129..3156)
+CGACCCTCGCCTACTCCGGGGCCATCG
+>P2 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (6752..6779)
+CGACCAGGACCTACTCCGGGGTCAAAT
+>P3 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (14412..14439)
+CGACCCTTCCCTACTCCGGCCTTAAAT
+>P4 promoter, Pseudomonas phage LUZ19, RefSeq:NC_010326, (24764..24791)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>P1 promoter, Pseudomonas phage phiKF77, RefSeq:NC_012418, (2801..2828)
+CGACCCTCGCCTACTCCGGGGCCATCG
+>P2 promoter, Pseudomonas phage phiKF77, RefSeq:NC_012418, (6376..6403)
+CGACCGGGGCCTACTCCGGGGTCAAAT
+>P3 promoter, Pseudomonas phage phiKF77, RefSeq:NC_012418, (14317..14344)
+TGACCCTTCCCTACTCCGGCCTTAAAT
+>P4 promoter, Pseudomonas phage phiKF77, RefSeq:NC_012418, (24649..24676)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>A1 promoter, Pseudomonas phage PT2, RefSeq:EU236438, (972..1001)
+TTGACACACTACCAAGGCATCGGTAGAGT
+>A2 promoter, Pseudomonas phage PT2, RefSeq:EU236438, (1227..1256)
+TTGACAAGACAAGCGCAAGTCTCTAACAT
+>P1 promoter, Pseudomonas phage PT2, RefSeq:EU236438, (3108..3135)
+CGACCATCGCCTACTCCGGGGCCATCG
+>P2 promoter, Pseudomonas phage PT2, RefSeq:EU236438, (6673..6700)
+CGACTGGGGCCTACTCCGGGGTCAAAT
+>P3 promoter, Pseudomonas phage PT2, RefSeq:EU236438, (14339..14366)
+CGACCCTTCCCTACTCCGGCCTTAAAT
+>P4 promoter, Pseudomonas phage PT2, RefSeq:EU236438, (24490..24517)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>A1 promoter, Pseudomonas phage PT5, RefSeq:EU056923, (972..1001)
+TTGACACACTACCAAGGCATCGGTAGAGT
+>A2 promoter, Pseudomonas phage PT5, RefSeq:EU056923, (1226..1255)
+TTGACAAGACAAGCGCAAGTCTCTAACAT
+>P1 promoter, Pseudomonas phage PT5, RefSeq:EU056923, (3108..3135)
+CGACCCTCGCCTACTCCGGGGCCATCG
+>P2 promoter, Pseudomonas phage PT5, RefSeq:EU056923, (6678..6705)
+CGACTGGGGCCTACTCCGGGGTCAAAT
+>P3 promoter, Pseudomonas phage PT5, RefSeq:EU056923, (14350..14377)
+CGACCCTTCCCTACTCCGGCCTTAAAT
+>P4 promoter, Pseudomonas phage PT5, RefSeq:EU056923, (24492..24519)
+CGACCCTGCCCTACTCCGGCCTTAAAC
+>PD/E20 promoter, Escherichia phage T5, RefSeq:AY543070, complement(4689..4718)
+TTGACACCCTAGCCGATAGGCTTTAAGAT
+>PH22 promoter, Escherichia phage T5, RefSeq:AY543070, complement(4814..4842)
+CCCAGCAATCGGTAAAATATCGATTTAG
+>P01 promoter, Escherichia phage T5, RefSeq:AY543070, complement(5964..5991)
+TTGCTAATGGTTTTGATATAATATAAT
+>P02 promoter, Escherichia phage T5, RefSeq:AY543070, (6433..6463)
+TTGCCTATGCTAGAAAATTACCTTTATCAT
+>P023 promoter, Escherichia phage T5, RefSeq:AY543070, complement(13237..13266)
+TTGACGATAATCATATAGTTTGGTATAAT
+>P033 promoter, Escherichia phage T5, RefSeq:AY543070, complement(16270..16299)
+TTGCTTTAAGCCTTAAAATTCTGTATAAT
+>PF30 promoter, Escherichia phage T5, RefSeq:AY543070, complement(16778..16807)
+TTGCTAAAATGCTTAAGTTTCTGTATAAT
+>P037 promoter, Escherichia phage T5, RefSeq:AY543070, complement(18575..18604)
+TTGCTTTCAGCTAAAAATTTTGGTATAAT
+>P039 promoter, Escherichia phage T5, RefSeq:AY543070, complement(19393..19422)
+TTGACTTTTAGCCCTAGTTATTATATAAT
+>P042 promoter, Escherichia phage T5, RefSeq:AY543070, complement(21022..21051)
+TTGAAATTTTCCTCCAAAATTAGTATAAT
+>P048 promoter, Escherichia phage T5, RefSeq:AY543070, complement(24468..24497)
+TTGCATAGATGCCCAAACTTTTGTATAAT
+>P054 promoter, Escherichia phage T5, RefSeq:AY543070, complement(26747..26776)
+TTGCTAAACCTCTCTTTTCTTGTTATAAT
+>P10a promoter, Escherichia phage T5, RefSeq:AY543070, complement(27188..27215)
+TATATAGGTAAATAATTTATGTATAAT
+>P11 promoter, Escherichia phage T5, RefSeq:AY543070, complement(28622..28651)
+TTGCTTTCTCTCTTATTTATTGCTATAAT
+>P13b promoter, Escherichia phage T5, RefSeq:AY543070, complement(32024..32055)
+TTGCTTAATGCTTAATTTCTTGTTATAATAT
+>P13a promoter, Escherichia phage T5, RefSeq:AY543070, complement(32783..32812)
+TTGCTATTATGCTTAATTCTCTGTATAAT
+>P14b promoter, Escherichia phage T5, RefSeq:AY543070, complement(34784..34813)
+TTGCTTAGTTTCCAAAAGTTCTATATAAT
+>P14a promoter, Escherichia phage T5, RefSeq:AY543070, complement(35551..35580)
+TTGCTCAGTGCCTTAAAACTTGGTATAAT
+>P15c promoter, Escherichia phage T5, RefSeq:AY543070, complement(35922..35952)
+TTGCCTTTTGCTTTAAATTTCTGATATAAT
+>P15b promoter, Escherichia phage T5, RefSeq:AY543070, complement(37272..37301)
+TTGCTATGAAGCTAAATTTCTAATATAAT
+>P15a promoter, Escherichia phage T5, RefSeq:AY543070, complement(37827..37856)
+TTGCTTGAATGCTAAATTCTCTGTATAAT
+>P12 promoter, Escherichia phage T5, RefSeq:AY543070, (37972..38001)
+TTGACATTTTCTCCTGGGTAGTGTAAAGT
+>P16-17 promoter, Escherichia phage T5, RefSeq:AY543070, complement(41579..41608)
+TTGCTAAATGCTTATAAATTCTGTATAAT
+>PD/E33 promoter, Escherichia phage T5, RefSeq:AY543070, complement(42252..42281)
+TTGCTTAAATACTTAAACTTCTGTATAAT
+>P085 promoter, Escherichia phage T5, RefSeq:AY543070, complement(43092..43121)
+TTGCTAATTTATTAAGTTTTCTGTATAAT
+>P087 promoter, Escherichia phage T5, RefSeq:AY543070, complement(44418..44447)
+TTGCTTCCAGCTTCAAAATTCTGTATAAT
+>PH207 promoter, Escherichia phage T5, RefSeq:AY543070, complement(46011..46040)
+TTGCTAAACGCTTCAAATTCTCGTATAAT
+>Prnh promoter, Escherichia phage T5, RefSeq:AY543070, complement(46362..46391)
+TTGCTTAAAGCCCTCTAATTTAGTATAAT
+>Pthy promoter, Escherichia phage T5, RefSeq:AY543070, complement(46961..46991)
+TTGAAATTGTACTTGCTTATTAGGTATAAT
+>PnrdA promoter, Escherichia phage T5, RefSeq:AY543070, complement(50086..50115)
+TTGCTAATCGCTACCTGATTTGCTATAAT
+>P090 promoter, Escherichia phage T5, RefSeq:AY543070, complement(53661..53692)
+TTGCTTTTTACTGTATATATTGGTATAATAT
+>P091 promoter, Escherichia phage T5, RefSeq:AY543070, complement(53804..53833)
+TTGCTATTTTGTACTTAAAATAGTATAAT
+>PnrdD promoter, Escherichia phage T5, RefSeq:AY543070, (53902..53931)
+TTGACATCTGCCCTTGAATAAGCTATAAT
+>P100 promoter, Escherichia phage T5, RefSeq:AY543070, (55727..55756)
+TTGCTTTCAGCTAAAAATATATGTATAAT
+>P108 promoter, Escherichia phage T5, RefSeq:AY543070, (59018..59047)
+TTGCAGGATGCCCAAAATCTTGATATAAT
+>PN25 promoter, Escherichia phage T5, RefSeq:AY543070, (63062..63091)
+TTGCTTTCAGGAAAATTTTTCTGTATAAT
+>PN26 promoter, Escherichia phage T5, RefSeq:AY543070, (64087..64116)
+TTGCTTAATCCTACAATTCTTGATATAAT
+>PligA promoter, Escherichia phage T5, RefSeq:AY543070, (65303..65332)
+TTGCTTTCAACTCAGTTTTGTTATATAAT
+>PK28b promoter, Escherichia phage T5, RefSeq:AY543070, (66385..66414)
+TTGACATTTTCGCCGCTTAGGTATATACT
+>PK28a promoter, Escherichia phage T5, RefSeq:AY543070, (66478..66507)
+TTGCTAAATGCTTAAATACTTGCTATAAT
+>PD7-9 promoter, Escherichia phage T5, RefSeq:AY543070, (71005..71035)
+TTGCTGAATCGCTTAAAGATTTGGTATAAT
+>P31A promoter, Escherichia phage T5, RefSeq:AY543070, (75486..75515)
+TTGGCAACAGCTCATAAATGATGTATAAT
+>P31B promoter, Escherichia phage T5, RefSeq:AY543070, (75576..75606)
+AAAATTTTAGTTGCTAAATTCTCTCGAAAT
+>P134 promoter, Escherichia phage T5, RefSeq:AY543070, (81742..81773)
+AAATCTCTATTAGACAATTAGCTGAGTGTTT
+>P-G25 promoter, Escherichia phage T5, RefSeq:AY543070, complement(92038..92067)
+TTGATAAAATTTTCCAATACTATTATAAT
+>P-J5 promoter, Escherichia phage T5, RefSeq:AY543070, complement(99935..99964)
+TTGACACAGGTGGAAATTTAGAATATACT
+>P135 promoter, Escherichia phage T5, RefSeq:AY543070, (110368..110397)
+TTGCTTATACTGCCATAATTCTGTATAAT
+>Plpp promoter, Escherichia phage T5, RefSeq:AY543070, complement(110400..110429)
+TTTACATTCTCCCCTATTTAATTTATAAT
+>PI promoter, Enterobacteria phage phi80, RefSeq:NC_021190, (24756..24786)
+TAGCTTTGAGTGGGCAACTTTGTGTACACT
+>PL promoter, Enterobacteria phage phi80, RefSeq:NC_021190, complement(33206..33235)
+TTGACCTACAAATCCACATGATGTTTAAT
+>PRM promoter, Enterobacteria phage phi80, RefSeq:NC_021190, complement(35320..35348)
+TGGAAAAAATCCACATGTTGTTTACCAT
+>PR promoter, Enterobacteria phage phi80, RefSeq:NC_021190, (35359..35388)
+TTGATTTAATCCACGCCATGAATTAACAT
+>PR' promoter, Enterobacteria phage phi80, RefSeq:NC_021190, (41988..42017)
+TTGCATTTCGCGGAAAAACTGGATAGATT
+>PB promoter, Enterobacteria phage 186, RefSeq:NC_001317, (20548..20577)
+TTCACAAAAAGTGAATTTATGATTATCAT
+>PR promoter, Enterobacteria phage 186, RefSeq:NC_001317, (23025..23054)
+TTTACTATCTCTCAATTGGGAGATATATT
+>PL promoter, Enterobacteria phage 186, RefSeq:NC_001317, complement(23130..23159)
+TTGCGATTTCAGAAGCCATATTGCATGAT
+>PE promoter, Enterobacteria phage 186, RefSeq:NC_001317, complement(23407..23433)
+TTGCATCCTTACAATTCACATAAAGT
+>P95 promoter, Enterobacteria phage 186, RefSeq:NC_001317, (29019..29049)
+TTCACACCTTTTGCCAATACGTGCTACTGT
+>P1 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, complement(372..401)
+TTGACAAGGGTAGGGTAATGTGGTATAAT
+>P2 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, (499..530)
+TAACCACAAACCGCCCAAAACGTGGTATAAT
+>P3 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, (646..673)
+TTGAGAGAAACAGAAGATTTATATAAT
+>P4 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, (1671..1700)
+AAGACAAGTTATGCTCTAAGTGTTATACA
+>P5 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, (5025..5053)
+TTTAAAAGATAAATAAATATGATATAAT
+>P6 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, complement(17882..17910)
+TTGACACTTGATTGATTTTATGTATAAT
+>P7 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, complement(18232..18263)
+TAACCACAAACCGCCCAAAACGTGGTATAAT
+>P8 promoter, Lactococcus phage asccphi28, RefSeq:EU438902, (18361..18390)
+TTGACAAGGGTAGGGTAATGTGGTATAAT
+>PL promoter, Enterobacteria phage ES18, RefSeq:NC_006949, complement(36051..36080)
+TTGACCATTTAATTAAGAAGTCTTAAATT
+>PR promoter, Enterobacteria phage ES18, RefSeq:NC_006949, (36845..36873)
+TTGACTAAAGATTCCTTTAGTAGATAAT
+>Pmnt promoter, Salmonella phage epsilon34, RefSeq:NC_011976, (15309..15338)
+TTGACATGATAGAAGCACTCTACTATATT
+>Psar promoter, Salmonella phage epsilon34, RefSeq:NC_011976, complement(15613..15639)
+TTCACTGCTTCTAAAATTGCTATACT
+>PL promoter, Salmonella phage epsilon34, RefSeq:NC_011976, complement(30837..30865)
+TTGCAATGATGTTTACTATACGTATACT
+>PR promoter, Salmonella phage epsilon34, RefSeq:NC_011976, complement(32798..32832)
+TATACACATCGTATTCAATATCGCAATACATAGT
+>PR' promoter, Salmonella phage epsilon34, RefSeq:NC_011976, (39283..39312)
+TTGACTTTTTGAATAAAGTTGGGTAAATT
